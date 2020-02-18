@@ -8,5 +8,5 @@ which contains some specific set of questions on one topic or various topics.
 Depending on the user’s performance at answering, the program will evaluate the
 user and change the question set according to the user’s skill. Here the questions
 set will be selected by implementing a Computerized Adaptive Test (CAT)
-algorithm (either Rasch Algorithm or Monte Carlo Algorithm). Finally the
+algorithm (Both Rasch Algorithm and Monte Carlo Algorithm). Finally the
 grade/performance of the user will be displayed.
