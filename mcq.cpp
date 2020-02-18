@@ -19,21 +19,32 @@ public:
 };
 void  contest :: define()
 {
-    ifstream in;
-    char a;
+    //ifstream in;
+    char a[2];
     int i=0;
-    in.open("ques.txt");
-    while(in.eof()==0)
+    FILE *in;
+    in = fopen("ques.txt","r");
+    if(in == NULL){
+        cout <<"hhh";
+    }
+    while(1)
     {
-        in.getline(s,100);
-        cout<<endl<<s;
-        if(i==5)
+        fgets(s,100,in);
+        if(s[0]=='0')
         {
-            in.get(a);
+            break;
+        }
+        cout<<endl<<s;
+        if(i==4)
+        {
+            fgets(a,2,in);
+
+            //cout <<"ans="<< a ;
+            //in.get(a);
             cout<<"\nans:";
             cin>>ans;
-            i=-1;
-            if(ans==a)
+            i=-2;
+            if(ans==a[0])
             {
                 x=x+5;
                 cout<<" *Your ans  correct.\n";
@@ -44,10 +55,14 @@ void  contest :: define()
                     x=x-2.5;
                 cout<<" # Wrong ans.\n";
             }
+            if(a[0]=='0')
+            {
+            break;
+            }
         }
         i++;
     }
-    in.close();
+    fclose(in);
 }
 void contest :: init()
 {
