@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1582727558 source:d:\assembly\spl\main.cpp
+	"header.h"
+
+1582728323 d:\assembly\spl\header.h
+	<bits/stdc++.h>
+
+1582728350 source:d:\assembly\spl\calculate_performance.cpp
+	"header.h"
+
+1582728360 source:d:\assembly\spl\menu.cpp
+	"header.h"
+
+1582728373 source:d:\assembly\spl\read_files.cpp
+	"header.h"
+
