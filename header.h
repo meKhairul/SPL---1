@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
+
 void menu();
-void Test();
+void Test(string []);
 void readFile();
-void Calculate_Performance();
+double Calculate_Performance();
+
