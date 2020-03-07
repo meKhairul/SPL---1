@@ -1,9 +1,10 @@
 #include "header.h"
-string easyQuestion,mediumQuestion,hardQuestion,superHardQuestion;
-string EasyQarr[100],MediumQarr[100],HardQarr[100],SuperHardQarr[100];
+
 
 void readFile()
 {
+    string easyQuestion,mediumQuestion,hardQuestion,superHardQuestion;
+    string EasyQarr[100],MediumQarr[100],HardQarr[100],SuperHardQarr[100];
     FILE *fp;
     char ch;
     string str;
@@ -69,5 +70,6 @@ void readFile()
         SuperHardQarr[SLine++] = str;
     }
     fclose(fp);
-
+    Test(EasyQarr);
 }
+
