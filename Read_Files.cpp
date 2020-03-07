@@ -10,14 +10,14 @@ void readFile()
     fp = fopen("easyQuestion.txt","r" );
     if(fp==NULL)
     {
-        cout << "File isn't open\n";
+        cout << "File isn't open#";
     }
     while((ch = fgetc(fp)) != EOF){
         easyQuestion = easyQuestion + ch;
     }
     int ELine=0;
     stringstream X(easyQuestion);
-	 while(getline(X, str, '\n')) {
+	 while(getline(X, str, '#')) {
         EasyQarr[ELine++] = str;
     }
     fclose(fp);
@@ -26,14 +26,14 @@ void readFile()
     fp = fopen("mediumQuestion.txt","r" );
     if(fp==NULL)
     {
-        cout << "File isn't open\n";
+        cout << "File isn't open#";
     }
     while((ch = fgetc(fp)) != EOF){
         mediumQuestion = mediumQuestion+ch;
     }
     int MLine=0;
     stringstream Y(mediumQuestion);
-	 while(getline(Y, str, '\n')) {
+	 while(getline(Y, str, '#')) {
         MediumQarr[MLine++] = str;
     }
     fclose(fp);
@@ -42,14 +42,14 @@ void readFile()
     fp = fopen("hardQuestion.txt","r" );
     if(fp==NULL)
     {
-        cout << "File isn't open\n";
+        cout << "File isn't open#";
     }
     while((ch = fgetc(fp)) != EOF){
         hardQuestion = hardQuestion+ch;
     }
     int HLine=0;
     stringstream Z(hardQuestion);
-	 while(getline(Z, str, '\n')) {
+	 while(getline(Z, str, '#')) {
         HardQarr[HLine++] = str;
     }
     fclose(fp);
@@ -58,14 +58,14 @@ void readFile()
     fp = fopen("superHardQuestion.txt","r" );
     if(fp==NULL)
     {
-        cout << "File isn't open\n";
+        cout << "File isn't open#";
     }
     while((ch = fgetc(fp)) != EOF){
         superHardQuestion = superHardQuestion+ch;
     }
     int SLine=0;
     stringstream S(superHardQuestion);
-	 while(getline(S, str, '\n')) {
+	 while(getline(S, str, '#')) {
         SuperHardQarr[SLine++] = str;
     }
     fclose(fp);
