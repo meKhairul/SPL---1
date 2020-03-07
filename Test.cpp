@@ -1,51 +1,26 @@
 #include "header.h"
 
-void Test()
+void Test(string EasyQarr[])
 {
-    //ifstream in;
-    char a[2],s[100];
-    int i=0;
-    FILE *in;
-    in = fopen("ques.txt","r");
-    if(in == NULL){
-        cout <<"Invalid";
-    }
-    while(1)
-    {
-        fgets(s,100,in);
-        int x=0;
-        if(s[0]=='0')
-        {
-            break;
-        }
-        cout<<endl<<s;
-        if(i==4)
-        {
-            fgets(a,2,in);
 
-            //cout <<"ans="<< a ;
-            //in.get(a);
-            char ans;
-            cout<<"\nans:";
+    int counts=0,make[20]={0};
+    string ans;
+    while(counts<20)
+    {
+        int random = rand()%20;
+        if(random%2==0&&make[random]==0)
+        {
+            counts++;
+            cout << EasyQarr[random] << endl;
+            make[random]=1;
             cin>>ans;
-            i=-2;
-            if(ans==a[0])
+            if(ans==EasyQarr[random+1])
             {
-                x=x+5;
-                cout<<" *Your ans  correct.\n";
+                cout << "answer is correct\n";
             }
             else
-            {
-                if(x>0)
-                    x=x-2.5;
-                cout<<" # Wrong ans.\n";
-            }
-            if(a[0]=='0')
-            {
-            break;
-            }
+                cout << "wrong answer\n";
         }
-        i++;
+
     }
-    fclose(in);
 }
