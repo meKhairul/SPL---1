@@ -3,6 +3,7 @@
 
 int main()
 {
-    cout << "\t\t\t\t-----Welcome To Test System-----\n" ;
+    system( "color 17") ;
+    cout << "\t\t\t\t-----Welcome To Adaptive Test System-----\n" ;
     menu();
 }

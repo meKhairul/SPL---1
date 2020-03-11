@@ -1,1 +1,50 @@
-
+In which Quadrant the angle (-980') lie?
+a.1st
+b.2nd
+c.3rd
+d.4th#b#
+In which quadrant does in (9.90' - @ ) lie?
+a.First
+b.Second
+c.Third
+d.Fourth#a#
+54 km/h equals to which of the following?
+a.12 m/s
+b.15 m/s
+c.20 m/s
+d.25 m/s#b#
+Which of the following is a scalar quantity?
+a.Force
+b.Acceleration
+c.Velocity
+d.Work#d#
+Which one is related to Newton's 1st Law of motion?
+a. v=u+at
+b. u=v
+c. s=vt
+d. F=ma#b#
+What is the pH value of weak base?
+a. 0-3
+b. 3-7
+c. 7-11
+d. 11-14#c#
+What is the color of universal indicator in weak acid?
+a. Yellow
+b. Red
+c. Green
+d. Blue#a#
+Which is a weak acid?
+a. HCl
+b. H2CO3
+c. HNO3
+d. H2SO4#b#
+Which one is Halogen?
+a. Na
+b. O
+c. C
+d. I#d#
+How many elements are recognised by IUPAC?
+a. 98
+b. 112
+c. 114
+d. 118#c#

@@ -70,6 +70,6 @@ void readFile()
         SuperHardQarr[SLine++] = str;
     }
     fclose(fp);
-    Test(EasyQarr);
+    Test(EasyQarr,MediumQarr,HardQarr,SuperHardQarr);
 }
 

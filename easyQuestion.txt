@@ -3,26 +3,26 @@ a.1822
 b.1823 
 c.1834
 d.1922#a#
-WHO kILLED PRESEDENT BENOGIR VUTTO?
-a.nawaz shrif
-b.pervase
-c.non of them
-d.political leder#c#
-WHO IS THE CAPTAIN OF BANGLADESH CRICKET TREAM?
-a.asharaful
-b.murtaja
-c.rafiq
-d.aftab#a#
+Who is the Prime Minister of Bangladesh?
+a.Sheikh Hasina
+b.Khaleda Zia
+c.Tareq Zia
+d.Sajeed Wazed Joy#a#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TREAM?
+a.Liton Das
+b.Mashrafe Mortoza
+c.Tamim Iqbal
+d.Nirzhor#c#
 WHAT IS OUR NATIONAL GAME?
-a.cicket
-b.football
-c.hadodo
-d.badminton#c#
-WHO IS NOW CHIEFJUSTICS IN BANGLADESH?
-a.yeaz uddin
-b.moin
-c.jalil
-d.fakhar uddin#d#
+a.Cicket
+b.Football
+c.Hadodo
+d.Badminton#c#
+When did Bongobondhu die?
+a.1921
+b.1971
+c.1975
+d.1972#c#
 WHO IS THE PRIME MINISTER OF INDIA?
 a.sonia gundi
 b.rajib gundi
@@ -47,4 +47,4 @@ WHICH COUNTRY WIN THE 2007 CRICKET WORLD CUP?
 a.australia
 b.bangladesh
 c.srilanka
-d.india#d#
+d.india#a#
