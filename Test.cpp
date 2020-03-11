@@ -3,11 +3,12 @@
 void Test(string EasyQarr[],string MediumQarr[] , string HardQarr[] , string SuperHardQarr[])
 {
 
-    int right=0,wrong=0,make1[20]={0},make2[20]={0},make3[20]={0},make4[20]={0},level=1;
+    int right=0,wrong=0,make1[20]={0},make2[20]={0},make3[20]={0},make4[20]={0},level=2;
     string ans;
     check:
     if(level==1)
     {
+        cout << "\n*****You are in easy level*****\n\n";
         int iter1=0;
         while(1)
         {
@@ -23,7 +24,7 @@ void Test(string EasyQarr[],string MediumQarr[] , string HardQarr[] , string Sup
                     cout << "Good! Your Answer is Correct\n";
                     iter1++;
                     right++;
-                    if(iter1==4)
+                    if(iter1==2)
                     {
                         level++;
                         goto check;
@@ -33,10 +34,13 @@ void Test(string EasyQarr[],string MediumQarr[] , string HardQarr[] , string Sup
                 }
                 else
                 {
-                    cout << "Oops!Wrong answer\n";
+                    cout << "\nOops!Wrong answer\n";
+                    cout << "\nYou are Failed\n";
                     //level--;
                     wrong++;
-                    goto check;
+                    cout << "\nCorrect answers : " << right << "\n";
+                    cout << "\nWrong answers : " << wrong << "\n";
+                    break;
                 }
 
             }
@@ -46,6 +50,7 @@ void Test(string EasyQarr[],string MediumQarr[] , string HardQarr[] , string Sup
 
     else if(level==2)
     {
+        cout << "\n*****You are in medium level***** \n";
         int iter2=0;
         while(1)
         {
@@ -58,25 +63,29 @@ void Test(string EasyQarr[],string MediumQarr[] , string HardQarr[] , string Sup
                 if(ans==MediumQarr[random+1])
                 {
 
-                    cout << "Good! Your Answer is Correct\n";
+                    cout << "\nGood! Your Answer is Correct\n";
                     iter2++;
                     right++;
-                    if(iter2==4)
+                    if(iter2==2)
                     {
-                        //level++;
-                        //goto check;
-                        cout << "Congratulations! You become the winner\n";
-                        cout << "Correct answers : " << right << "\n";
-                        cout << "Wrong answers : " << wrong << "\n";
-                        break;
+                        level++;
+                        goto check;
+                        //cout << "Congratulations! You become the winner\n";
+                        //cout << "Correct answers : " << right << "\n";
+                        //cout << "Wrong answers : " << wrong << "\n";
+                        //break;
                     }
+                    else
+                        continue;
                 }
                 else
-
-                    cout << "Oops!Wrong answer\n";
+                {
+                    cout << "\nOops!Wrong answer\n";
                     level--;
                     wrong++;
                     goto check;
+                }
+
             }
 
         }
@@ -84,6 +93,7 @@ void Test(string EasyQarr[],string MediumQarr[] , string HardQarr[] , string Sup
 
     else if(level==3)
     {
+        cout << "\n*****You are in hard level***** \n";
         int iter3=0;
         while(1)
         {
@@ -96,13 +106,17 @@ void Test(string EasyQarr[],string MediumQarr[] , string HardQarr[] , string Sup
                 if(ans==HardQarr[random+1])
                 {
 
-                    cout << "Good! Your Answer is Correct\n";
+                    cout << "\nGood! Your Answer is Correct\n";
                     iter3++;
                     right++;
-                    if(iter3==4)
+                    if(iter3==2)
                     {
-                        level++;
-                        goto check;
+                        cout << "\nCongratulations! You become the winner\n";
+                        cout << "\nCorrect answers : " << right << "\n";
+                        cout << "\nWrong answers : " << wrong << "\n";
+                        break;
+                        //level++;
+                        //goto check;
                     }
                 }
                 else
@@ -133,7 +147,7 @@ void Test(string EasyQarr[],string MediumQarr[] , string HardQarr[] , string Sup
                     cout << "Good! Your Answer is Correct\n";
                     iter4++;
                     right++;
-                    if(iter4==4)
+                    if(iter4==2)
                     {
                         cout << "Congratulations! You become the winner\n";
                         break;
