@@ -8,7 +8,7 @@ a.Sheikh Hasina
 b.Khaleda Zia
 c.Tareq Zia
 d.Sajeed Wazed Joy#a#
-WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TREAM?
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
 a.Liton Das
 b.Mashrafe Mortoza
 c.Tamim Iqbal
@@ -33,18 +33,18 @@ a.16th nov
 b.17th nov
 c.18th nov
 d.20th nov#a#
-WHEN WILL BE THE NEXT WORLD CUP CRICKET?
-a.2011
-b.2012
-c.2009
-d.2008#a#
-WHERE WILL BE THE NEXT WORLD CUP CRICKET?
-a.india
-b.pakistan
-c.africa
-d.bangladesh#d#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+a.2024
+b.2022
+c.2028
+d.2023#d#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+a.India
+b.Pakistan
+c.South Africa
+d.Bangladesh#a#
 WHICH COUNTRY WIN THE 2007 CRICKET WORLD CUP?
-a.australia
-b.bangladesh
-c.srilanka
-d.india#a#
+a.Australia
+b.Bangladesh
+c.Srilanka
+d.India#a#
