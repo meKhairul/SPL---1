@@ -1,6 +1,6 @@
 #include "header.h"
 
-void Calculate_Performance()
+double Calculate_Performance(double B)
 {
-
+    return B*100;
 }

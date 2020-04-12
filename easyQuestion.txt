@@ -1,50 +1,22 @@
 WHEN COMPUTER WAS FIRST INVENTIONED?
-a.1822 
-b.1823 
-c.1834
-d.1922#a#
+#1822#1#1823#0#1834#0#1922#0#
 Who is the Prime Minister of Bangladesh?
-a.Sheikh Hasina
-b.Khaleda Zia
-c.Tareq Zia
-d.Sajeed Wazed Joy#a#
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
 WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
-a.Liton Das
-b.Mashrafe Mortoza
-c.Tamim Iqbal
-d.Nirzhor#c#
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
 WHAT IS OUR NATIONAL GAME?
-a.Cicket
-b.Football
-c.Hadodo
-d.Badminton#c#
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
 When did Bongobondhu die?
-a.1921
-b.1971
-c.1975
-d.1972#c#
+#1921#0#1971#0#1975#1#1972#0#
 WHO IS THE PRIME MINISTER OF INDIA?
-a.sonia gundi
-b.rajib gundi
-c.autol biharipal
-d.pervase#c#
-WHAT IS THE DATE OF SIDDR ORCUS?
-a.16th nov
-b.17th nov
-c.18th nov
-d.20th nov#a#
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
 WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
-a.2024
-b.2022
-c.2028
-d.2023#d#
+#2024#0#2022#0#2028#0#2023#1#
 WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
-a.India
-b.Pakistan
-c.South Africa
-d.Bangladesh#a#
-WHICH COUNTRY WIN THE 2007 CRICKET WORLD CUP?
-a.Australia
-b.Bangladesh
-c.Srilanka
-d.India#a#
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+2+2=?
+#2#0#1#0#4#1#0#0#
