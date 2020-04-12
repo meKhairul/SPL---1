@@ -4,7 +4,7 @@
 void readFile()
 {
     string easyQuestion,mediumQuestion,hardQuestion,superHardQuestion;
-    string EasyQarr[100],MediumQarr[100],HardQarr[100],SuperHardQarr[100];
+    string EasyQarr[10000],MediumQarr[10000],HardQarr[10000],SuperHardQarr[10000];
     FILE *fp;
     char ch;
     string str;
