@@ -35,9 +35,14 @@
 		<Unit filename="Calculate_Performance.cpp" />
 		<Unit filename="Read_Files.cpp" />
 		<Unit filename="Test.cpp" />
+		<Unit filename="easyQuestion.txt" />
+		<Unit filename="hardQuestion.txt" />
 		<Unit filename="header.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="mediumQuestion.txt" />
 		<Unit filename="menu.cpp" />
+		<Unit filename="rasch.cpp" />
+		<Unit filename="superHardQuestion.txt" />
 		<Extensions>
 			<code_completion />
 			<envvars />

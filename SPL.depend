@@ -1,16 +1,25 @@
 # depslib dependency file v1.0
-1582727558 source:d:\assembly\spl\main.cpp
+1583983143 source:d:\assembly\spl\main.cpp
 	"header.h"
 
-1582728323 d:\assembly\spl\header.h
+1586178472 d:\assembly\spl\header.h
 	<bits/stdc++.h>
 
-1582728350 source:d:\assembly\spl\calculate_performance.cpp
+1586165514 source:d:\assembly\spl\calculate_performance.cpp
 	"header.h"
 
-1582728360 source:d:\assembly\spl\menu.cpp
+1586675817 source:d:\assembly\spl\menu.cpp
 	"header.h"
 
-1582728373 source:d:\assembly\spl\read_files.cpp
+1586182518 source:d:\assembly\spl\read_files.cpp
+	"header.h"
+
+1586182518 source:d:\assembly\spl\test.cpp
+	"header.h"
+
+1583567087 source:d:\assembly\spl\random_generator.cpp
+	"header.h"
+
+1586675817 source:d:\assembly\spl\rasch.cpp
 	"header.h"
 
