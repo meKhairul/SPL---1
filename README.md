@@ -10,3 +10,11 @@ user and change the question set according to the user’s skill. Here the quest
 set will be selected by implementing a Computerized Adaptive Test (CAT)
 algorithm (Both Rasch Algorithm and Monte Carlo Algorithm). Finally the
 grade/performance of the user will be displayed.
+
+Feedback during Mid Presentation  :
+
+1. answers to be randomize
+
+2. question skiping
+
+3. Adding negative marking
