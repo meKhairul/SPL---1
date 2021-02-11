@@ -1,3 +1,34 @@
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
 WHEN COMPUTER WAS FIRST INVENTIONED?
 #1822#1#1823#0#1834#0#1922#0#
 Who is the Prime Minister of Bangladesh?
@@ -57,3 +88,2952 @@ In which Quadrant the angle (-980') lie?
 #1st#0#2nd#1#3rd#0#4th#0#
 WHEN COMPUTER WAS FIRST INVENTIONED?
 #1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+
+Spot the word which starts with a capital letter. 	
+#belt#0#Shoes#1#bag#0#cap#0#
+
+Spot the word which starts with a small letter. 	
+#Belt#0#Shoes#0#bag#1#Cap#0#
+
+Spot the word which starts with a Capital letter.	
+#apple#0#Mango#1#banana#0#grapes#0#
+
+Select the small letter from the options.
+#v#1#A#0#W#0#S#0#
+
+2+2 = ?
+#22#0#0#0#1#0#4#1#
+
+1+1+1 = ?
+#111#0#21#0#12#0#3#1#
+
+4-4 = ?
+#0#1#4#0#1#0#44#0#
+
+10+2-9 = ?
+#1029#0#3#1#1#0#-2#0#
+
+20-9 = ?
+#209#0#11#1#2#0#9#0#
+
+How many ears a man has?
+#0#0#1#0#2#1#3#0#
+
+
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1#1823#0#1834#0#1922#0#
+Who is the Prime Minister of Bangladesh?
+#Sheikh Hasina#1#Khaleda Zia#0#Tareq Zia#0#Sajeed Wazed Joy#0#
+WHO IS THE CAPTAIN OF BANGLADESH ODI CRICKET TEAM?
+#Liton Das#0#Mashrafe Mortoza#0#Tamim Iqbal#1#Nirzhor#0#
+WHAT IS OUR NATIONAL GAME?
+#Cicket#0#Football#0#Hadodo#1#Badminton#0#
+When did Bongobondhu die?
+#1921#0#1971#0#1975#1#1972#0#
+WHO IS THE PRIME MINISTER OF INDIA?
+#Salman Khan#0#Aamer Khan#0#Norendra Modi#1#Shahrukh Khan#0#
+WHAT IS THE DATE OF "Operation Search Light"?
+#7 March#0#2 March#0#25 March#1#17 March#0#
+WHEN WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#2024#0#2022#0#2028#0#2023#1#
+WHERE WILL BE THE NEXT ODI WORLD CUP CRICKET?
+#India#1#Pakistan#0#South Africa#0#Bangladesh#0#
+WHICH COUNTRY WIN THE 2019 Under19 CRICKET WORLD CUP?
+#Australia#0#Bangladesh#1#Srilanka#0#India#0#
+
+
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+In which quadrant does in (9.90' - @ ) lie?
+#First#1#Second#0#Third#0#Fourth#0#
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+Which one is Halogen?
+#Na#0#O#0#C#0#I#1#
+How many elements are recognised by IUPAC?
+#98#0#112#0#114#1#118#0#
+
+54 km/h equals to which of the following?
+#12 m/s#0#15 m/s#1#20 m/s#0#25 m/s#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
+What is the pH value of weak base?
+#0-3#0#3-7#0#7-11#1#11-14#0#
+What is the color of universal indicator in weak acid?
+#Yellow#1#Red#0#Green#0#Blue#0#
+Which is a weak acid?
+#HCl#0#H2CO3#1#HNO3#0#H2SO4#0#
+In which Quadrant the angle (-980') lie?
+#1st#0#2nd#1#3rd#0#4th#0#
+WHEN COMPUTER WAS FIRST INVENTIONED?
+#1822#1# 1823#0# 1834#0#1922#0#
+Which of the following is a scalar quantity?
+#Force#0#Acceleration#0#Velocity#0#Work#1#
+Which one is related to Newton's 1st Law of motion?
+#v=u+at#0#u=v#1#s=vt#0#F=ma#0#
