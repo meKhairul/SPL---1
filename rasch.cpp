@@ -43,7 +43,7 @@ int generate_item(double D)
     int x;
     string ans;
     D=D*10;
-    for(int i=0; i<136; i++)
+    for(int i=0; i<137; i++)
     {
         if(abs(D-arr[i])<1)
         {
@@ -51,13 +51,18 @@ int generate_item(double D)
             break;
         }
     }
-    cout << x << endl;
+
     int flag=0;
     while(!flag)
     {
         int random = rand()%90;
         if(random%9==0&&check[x][random]==0)
         {
+            question:
+            //cout << "Difficulty level : " << x/10 << endl;
+
+            //cout << "x: " << x << " random : " << random << "\n";
+
             cout << Rasch[x][random] << endl;
             check[x][random]=1;
             flag=1;
@@ -66,10 +71,14 @@ int generate_item(double D)
             {
                 int upper = random+8,lower = random+1;
                 int ran = (rand()%(upper-lower+1))+lower;
+
+                //cout << "ran : " << ran << " check[x][ran] : " << check[x][ran] << "\n";
+
                 if(ran%2==1 && random%2==0 && check[x][ran]==0)
                 {
                     t++;
                     c[t]=ran;
+                    //cout << "ran1 : " << ran << "\n";
                     cout << t << "." << Rasch[x][ran] << "\n";
                     check[x][ran]=1;
                 }
@@ -77,6 +86,7 @@ int generate_item(double D)
                 {
                     t++;
                     c[t]=ran;
+                    //cout << "ran2 : " << ran << "\n";
                     cout << t << "." << Rasch[x][ran] << "\n";
                     check[x][ran]=1;
                 }
@@ -92,27 +102,14 @@ int generate_item(double D)
                 {
                     cout << "Good! Your Answer is Correct\n";
                     return 1;
-//                iter1++;
-//                right++;
-//                mark++;
+//
 
                 }
                 else
                 {
                     cout << "\nOops!Wrong answer\n";
                     return 0;
-                    //cout << "\nYou are Failed\n";
-                    //level--;
-//                wrong++;
-//                mark-=(.25);
-//                if(mark<10)
-//                {
-//                    cout << "\nYou are Failed\n";
-//                    cout << "your mark : " << mark << " !";
-//                }
-//                cout << "\nCorrect answers : " << right << "\n";
-//                cout << "\nWrong answers : " << wrong << "\n";
-//                break;
+
                 }
 
             }
@@ -122,27 +119,14 @@ int generate_item(double D)
                 {
                     cout << "Good! Your Answer is Correct\n";
                     return 1;
-//                iter1++;
-//                right++;
-//                mark++;
+//
 
                 }
                 else
                 {
                     cout << "\nOops!Wrong answer\n";
                     return 0;
-                    //cout << "\nYou are Failed\n";
-                    //level--;
-//                wrong++;
-//                mark-=(.25);
-//                if(mark<10)
-//                {
-//                    cout << "\nYou are Failed\n";
-//                    cout << "your mark : " << mark << " !";
-//                }
-//                cout << "\nCorrect answers : " << right << "\n";
-//                cout << "\nWrong answers : " << wrong << "\n";
-//                break;
+
                 }
 
             }
@@ -152,27 +136,14 @@ int generate_item(double D)
                 {
                     cout << "Good! Your Answer is Correct\n";
                     return 1;
-//                iter1++;
-//                right++;
-//                mark++;
+//
 
                 }
                 else
                 {
                     cout << "\nOops!Wrong answer\n";
                     return 0;
-                    //cout << "\nYou are Failed\n";
-                    //level--;
-//                wrong++;
-//                mark-=(.25);
-//                if(mark<10)
-//                {
-//                    cout << "\nYou are Failed\n";
-//                    cout << "your mark : " << mark << " !";
-//                }
-//                cout << "\nCorrect answers : " << right << "\n";
-//                cout << "\nWrong answers : " << wrong << "\n";
-//                break;
+
                 }
 
             }
@@ -182,30 +153,35 @@ int generate_item(double D)
                 {
                     cout << "Good! Your Answer is Correct\n";
                     return 1;
-//                iter1++;
-//                right++;
-//                mark++;
 
                 }
                 else
                 {
                     cout << "\nOops!Wrong answer\n";
                     return 0;
-                    //cout << "\nYou are Failed\n";
-                    //level--;
-//                wrong++;
-//                mark-=(.25);
-//                if(mark<10)
-//                {
-//                    cout << "\nYou are Failed\n";
-//                    cout << "your mark : " << mark << " !";
-//                }
-//                cout << "\nCorrect answers : " << right << "\n";
-//                cout << "\nWrong answers : " << wrong << "\n";
-//                break;
                 }
 
             }
+            else if(ans=="SKIP")
+                {
+                    cout << "Are you sure to skip this question??\n";
+                    cout << "1.Yes\n2.No\n";
+                    int choice;
+                    cin>>choice;
+                    if(choice==1)
+                    {
+                        flag=0;
+                        continue;
+                    }
+                    else
+                    {
+                        for(int i=random+1;i<=random+8;i++)
+                        {
+                            check[x][i]=0;
+                        }
+                        goto question;
+                    }
+                }
         }
     }
 
@@ -213,7 +189,7 @@ int generate_item(double D)
 
 int Stop_rule(int L)
 {
-    if(L>=15)
+    if(L>=20)
     {
         return 1;
     }
@@ -226,13 +202,13 @@ void rasch()
 {
 
     ReadRasch();
-    double k=-68.0;
-    for(int i=0; i<=136; i++)
+    double k=-50.0;
+    for(int i=0; i<=137; i++)
     {
         arr[i]=k++;
     }
-    double L=0.0,R=0.0,T=60.0;
-    double B,S,D=-0.0,H=0.0;
+    double L=0.0,R=0.0,T=2.0;
+    double B,S,D=0.0,H=0.0;
 Loop:
     while(1)
     {
@@ -242,14 +218,17 @@ Loop:
         if(!response)
         {
             D=D-(2.0/L);
+            cout << "D : " << D << "\n";
         }
         else
         {
             R++;
             D=D+(2.0/L);
+            cout << "D : " << D << "\n";
         }
         if(Stop_rule(L))
         {
+            cout << "stop\n";
             int W = L - R;
             if(W==0)
             {
@@ -266,20 +245,21 @@ Loop:
                 B = H/L + log(R/W);
                 S = sqrt(L/(R*W));
             }
+            cout << "B : " << B << " S: " << S << "\n";
             if( B < (T+S) && B > (T-S) )
             {
                 goto Loop;
             }
             else if(B-S > T)
             {
-                cout << "Passed\n";
-                cout << "Your Ability :" << Calculate_Performance(B) <<"%";
+                cout << "You are passed\n";
+                cout << "Your Ability :" << Calculate_Performance(B,arr) <<"%\n";
                 break;
             }
-            else if((B+S)>T)
+            else if((B+S)<T)
             {
-                cout << "Failed\n";
-                cout << "Your Ability :" << Calculate_Performance(B) <<"%";
+                cout << "You are failed\n";
+
                 break;
             }
         }
