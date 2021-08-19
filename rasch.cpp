@@ -213,8 +213,11 @@ void rasch(string std_name,string std_id)
     int iter=0;
 
 Loop:
-    while(iter<30)
+    ofstream file ("student.txt");
+    file << "Student Name\t\tStudent Id\t\tAbility\t\tStandard Error\n";
+    while(iter<=30)
     {
+
         int W = L - R;
         iter++;
 
@@ -260,6 +263,7 @@ Loop:
             }
             else if(B-S > T)
             {
+                file << std_name << "\t\t" << std_id << "\t\t\n";
                 cout << "Student's name : " << std_name << "\n";
                 cout << "You are passed\n";
                 cout << "Your Ability :" << Calculate_Performance(B,arr) <<"%\n";
@@ -269,6 +273,7 @@ Loop:
             }
             else if((B+S)<T)
             {
+                file << std_name << "\t\t" << std_id << "\t\t\n";
                 cout << "Student's name : " << std_name << "\n";
                 cout << "You are failed\n";
                 cout << "Your Ability :" << Calculate_Performance(B,arr) <<"%\n";
@@ -279,11 +284,14 @@ Loop:
         }
         if(iter==30)
         {
+            file << std_name << "\t\t" << std_id << "\t\t\n";
             cout << "Student's name : " << std_name << "\n";
+            cout << "You are passed\n";
+            cout << "Your Ability :" << Calculate_Performance(B,arr) <<"%\n";
             generate_score(difficult_level,iter,R,L);
         }
     }
-
+    file.close();
 
 }
 
@@ -307,7 +315,9 @@ void generate_score(double difficulty_level[],int iter,double R,double L)
         R=R-0.5;
         W=W+0.5;
     }
+    cout << "R : " << R << " W: " << W << "\n";
     Est_ability = D_mean + (sqrt(1+(Varience/2.9)))*(log(R/W));
+    cout << "1st est ability: " <<Est_ability << "\n";
     while(1)
     {
         if(new_est_ability!=0.0)
@@ -316,7 +326,7 @@ void generate_score(double difficulty_level[],int iter,double R,double L)
             if(abs(Est_ability-new_est_ability )>0.5)
             {
                 Est_ability=new_est_ability;
-                for(int i=1;i<iter;i++)
+                for(int i=1;i<=iter;i++)
                 {
                     Prob[i] = 1.0/(1+exp(difficulty_level[i]-Est_ability));
                     //cout << "probability["<<i<<"] :" << Prob[i]<<"\n";
@@ -327,11 +337,14 @@ void generate_score(double difficulty_level[],int iter,double R,double L)
             }
             else
             {
+                //ofstream file ("student.txt");
                 Est_ability = new_est_ability;
                 double std_err = sqrt(1/model_varience);
+                //file << Est_ability << "\t\t" << std_err << "\t\t\n";
+                //file.close();
                 cout << "And his Estimate ability is : "<< Est_ability << "\n";
                 cout << "Standard error : " << std_err << "\n";
-                for(int i=1;i<iter;i++)
+                for(int i=1;i<=iter;i++)
                 {
                     cout << "Probability of giving correct answer of question number " << i << " is : " << Prob[i] << "\n";
                 }
@@ -341,11 +354,12 @@ void generate_score(double difficulty_level[],int iter,double R,double L)
         }
         else
         {
-            for(int i=1;i<iter;i++)
+            for(int i=1;i<=iter;i++)
             {
                 Prob[i] = 1.0/(1+exp(difficulty_level[i]-Est_ability));
                 raw_score += Prob[i];
                 model_varience += (Prob[i]*(1-Prob[i]));
+                cout << "Prob["<<i<<"] : " << Prob[i] << "\n";
             }
             new_est_ability = Est_ability + ((R-raw_score)/model_varience);
         }
@@ -359,7 +373,7 @@ void generate_score(double difficulty_level[],int iter,double R,double L)
 double count_varience(double mean,double arr[],int iter)
 {
     double var=0.0,dif;
-    for(int i=0;i<iter;i++)
+    for(int i=1;i<=iter;i++)
     {
         dif = abs(arr[i]-mean);
         dif = dif*dif;
