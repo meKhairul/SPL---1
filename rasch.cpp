@@ -208,13 +208,32 @@ void rasch()
         arr[i]=k++;
     }
     double L=0.0,R=0.0,T=2.0;
-    double B,S,D=0.0,H=0.0;
+    double B,S,D=0.0,H=0.0,D_mean;
+    double difficult_level[50],Varience[50],Est_ability[50];
+    int iter=0;
+
 Loop:
     while(1)
     {
+        iter++;
         int response=generate_item(D);
+        difficult_level[L]=D;
         L++;
         H=H+D;
+        D_mean = H/(L*1.0);
+        Varience[iter] = count_varience(D_mean,difficult_level,iter);
+        if(R==0)
+        {
+            R=R+0.5;
+            W=W-0.5;
+        }
+        if(W==0)
+        {
+            R=R-0.5;
+            W=W+0.5;
+        }
+        Est_ability[iter] = D_mean + (sqrt(1+(Varience[iter]/2.9)))*(log(R/W));
+
         if(!response)
         {
             D=D-(2.0/L);
@@ -265,4 +284,16 @@ Loop:
         }
     }
 
+}
+
+double count_varience(double mean,double arr[],int iter)
+{
+    double var=0.0,dif;
+    for(int i=0;i<iter;i++)
+    {
+        dif = abs(arr[i]-mean);
+        dif = dif*dif;
+        var = var + dif;
+    }
+    return var/(iter-1);
 }
