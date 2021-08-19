@@ -198,7 +198,7 @@ int Stop_rule(int L)
         return 0;
     }
 }
-void rasch()
+void rasch(string std_name,string std_id)
 {
 
     ReadRasch();
@@ -208,33 +208,21 @@ void rasch()
         arr[i]=k++;
     }
     double L=0.0,R=0.0,T=2.0;
-    double B,S,D=0.0,H=0.0,D_mean;
-    double difficult_level[50],Varience[50],Est_ability[50],Prob[50];
+    double B,S,D=0.0,H=0.0;
+    double difficult_level[50];
     int iter=0;
 
 Loop:
-    while(1)
+    while(iter<30)
     {
         int W = L - R;
         iter++;
-        int response=generate_item(D);
+
         difficult_level[iter]=D;
         L++;
         H=H+D;
-        D_mean = H/(L*1.0);
-        Varience[iter] = count_varience(D_mean,difficult_level,iter);
-        if(R==0)
-        {
-            R=R+0.5;
-            W=W-0.5;
-        }
-        if(W==0)
-        {
-            R=R-0.5;
-            W=W+0.5;
-        }
-        Est_ability[iter] = D_mean + (sqrt(1+(Varience[iter]/2.9)))*(log(R/W));
-        Prob[iter] = 1.0/(1+exp(D-Est_ability[iter]));
+
+        int response=generate_item(D);
         if(!response)
         {
             D=D-(2.0/L);
@@ -249,7 +237,7 @@ Loop:
         if(Stop_rule(L))
         {
             cout << "stop\n";
-
+            double W = L-R;
             if(W==0)
             {
                 B= (H*1.0)/L + log((R-0.5)/(W+0.5));
@@ -272,17 +260,98 @@ Loop:
             }
             else if(B-S > T)
             {
+                cout << "Student's name : " << std_name << "\n";
                 cout << "You are passed\n";
                 cout << "Your Ability :" << Calculate_Performance(B,arr) <<"%\n";
+
+                generate_score(difficult_level,iter,R,L);
                 break;
             }
             else if((B+S)<T)
             {
+                cout << "Student's name : " << std_name << "\n";
                 cout << "You are failed\n";
+                cout << "Your Ability :" << Calculate_Performance(B,arr) <<"%\n";
+
+                generate_score(difficult_level,iter,R,L);
+                break;
+            }
+        }
+        if(iter==30)
+        {
+            cout << "Student's name : " << std_name << "\n";
+            generate_score(difficult_level,iter,R,L);
+        }
+    }
+
+
+}
+
+void generate_score(double difficulty_level[],int iter,double R,double L)
+{
+    double d_sum,D_mean,Varience,Est_ability,Prob[50],raw_score,model_varience,new_est_ability=0.0;
+    double W = L-R;
+    for(int i=1;i<iter;i++)
+    {
+        d_sum += difficulty_level[i];
+    }
+    D_mean = d_sum/iter;
+    Varience = count_varience(D_mean,difficulty_level,iter);
+    if(R==0)
+    {
+        R=R+0.5;
+        W=W-0.5;
+    }
+    if(W==0)
+    {
+        R=R-0.5;
+        W=W+0.5;
+    }
+    Est_ability = D_mean + (sqrt(1+(Varience/2.9)))*(log(R/W));
+    while(1)
+    {
+        if(new_est_ability!=0.0)
+        {
+            cout << "estimate ability : " << Est_ability << " and new estimate ability : " << new_est_ability << "\n";
+            if(abs(Est_ability-new_est_ability )>0.5)
+            {
+                Est_ability=new_est_ability;
+                for(int i=1;i<iter;i++)
+                {
+                    Prob[i] = 1.0/(1+exp(difficulty_level[i]-Est_ability));
+                    //cout << "probability["<<i<<"] :" << Prob[i]<<"\n";
+                    raw_score += Prob[i];
+                    model_varience += (Prob[i]*(1-Prob[i]));
+                }
+                new_est_ability = Est_ability + ((R-raw_score)/model_varience);
+            }
+            else
+            {
+                Est_ability = new_est_ability;
+                double std_err = sqrt(1/model_varience);
+                cout << "And his Estimate ability is : "<< Est_ability << "\n";
+                cout << "Standard error : " << std_err << "\n";
+                for(int i=1;i<iter;i++)
+                {
+                    cout << "Probability of giving correct answer of question number " << i << " is : " << Prob[i] << "\n";
+                }
 
                 break;
             }
         }
+        else
+        {
+            for(int i=1;i<iter;i++)
+            {
+                Prob[i] = 1.0/(1+exp(difficulty_level[i]-Est_ability));
+                raw_score += Prob[i];
+                model_varience += (Prob[i]*(1-Prob[i]));
+            }
+            new_est_ability = Est_ability + ((R-raw_score)/model_varience);
+        }
+
+
+
     }
 
 }
