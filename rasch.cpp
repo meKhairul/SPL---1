@@ -209,15 +209,16 @@ void rasch()
     }
     double L=0.0,R=0.0,T=2.0;
     double B,S,D=0.0,H=0.0,D_mean;
-    double difficult_level[50],Varience[50],Est_ability[50];
+    double difficult_level[50],Varience[50],Est_ability[50],Prob[50];
     int iter=0;
 
 Loop:
     while(1)
     {
+        int W = L - R;
         iter++;
         int response=generate_item(D);
-        difficult_level[L]=D;
+        difficult_level[iter]=D;
         L++;
         H=H+D;
         D_mean = H/(L*1.0);
@@ -233,7 +234,7 @@ Loop:
             W=W+0.5;
         }
         Est_ability[iter] = D_mean + (sqrt(1+(Varience[iter]/2.9)))*(log(R/W));
-
+        Prob[iter] = 1.0/(1+exp(D-Est_ability[iter]));
         if(!response)
         {
             D=D-(2.0/L);
@@ -248,7 +249,7 @@ Loop:
         if(Stop_rule(L))
         {
             cout << "stop\n";
-            int W = L - R;
+
             if(W==0)
             {
                 B= (H*1.0)/L + log((R-0.5)/(W+0.5));
