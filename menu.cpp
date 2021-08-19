@@ -12,19 +12,25 @@ class TeachersLogInManager{
         }
         void login()
         {
-            cout << "\n\t\t\t\t\tYou need to enter username and password\n\t\t\t\t\tUsername: ";
-            cin >> userNameAttempt;
-            if(userNameAttempt==userName)
-            {
-                cout << "\n\t\t\t\t\tPassword: ";
-                cin>>passwordAttempt;
-                if(passwordAttempt==password)
+            while(1){
+                cout << "\n\t\t\t\t\tYou need to enter username and password\n\t\t\t\t\tUsername: ";
+                cin >> userNameAttempt;
+                if(userNameAttempt==userName)
                 {
-                    cout << "\n\t\t\t\t\tLogged In SUCCESSFULLY!\n";
-                    //Searching Function required.
+                    cout << "\n\t\t\t\t\tPassword: ";
+                    cin>>passwordAttempt;
+                    if(passwordAttempt==password)
+                    {
+                        cout << "\n\t\t\t\t\tLogged In SUCCESSFULLY!\n";
+                        break;
+                    }
+                    else cout << "Password is incorrect.Try Again\n";
                 }
+                else cout << "Username is incorrect.Try Again\n";
             }
         }
+
+
     private:
         string userName = "iitdu";
         string password = "iit123";
@@ -47,6 +53,11 @@ void menu()
        else if(t==2)
        {
             //Students Informations required.
+            string stdName,stdId;
+            cout<<"\n\t\t\t\t\tEnter your name: ";
+            cin>>stdName;
+            cout <<"\n\t\t\t\t\tEnter student id(e.g.BSSE1118): ";
+            cin>>stdId;
             cout << "\t\t\t\t\t1.Start By 4 Level Test\n\t\t\t\t\t2.Test By Rasch Algorithm\n\t\t\t\t\t3.Test By Monte Carlo Algo\n\t\t\t\t\t0.Exit\n";
             cin>>t;
             if(t==1)
