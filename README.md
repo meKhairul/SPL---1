@@ -17,4 +17,3 @@ Feedback during Mid Presentation  :
 
 2. question skiping
 
-3. Adding negative marking
