@@ -1,0 +1,375 @@
+Physics 10
+
+A battery of 10 volt carries 20,000 C of charge through a resistance of 20 Ω. The work done in 10 seconds is
+#2 × 103 joule#0
+#2 × 105joule#1
+#2 × 104 joule#0
+#2 × 102 joule#0#
+b
+
+A boy records that 4000 joule of work is required to transfer 10 coulomb of charge between two points of a resistor of 50 Ω. The current passing through it is
+#2 A#0
+#4 A#0
+#8 A#1
+#16 A#0#
+c
+
+
+To get 2 Ω resistance using only 6 Ω resistors, the number of them required is
+#2#0
+#3#1
+#4#0
+#6#0#
+b
+
+
+Two devices are connected between two points say A and B in parallel. The physical quantity that will remain the same between the two points is
+#current#0
+#voltage#1
+#resistance#0
+#None of these#0#
+b
+
+The least resistance obtained by using 2 Ω, 4 Ω, 1 Ω and 100 Ω is
+#< 100 Ω#0
+#< 4 Ω#0
+#< 1 Ω#1 
+#> 2 Ω#0#
+c
+
+Two resistors are connected in series gives an equivalent resistance of 10 Ω. When connected in parallel, gives 2.4 Ω. Then the individual resistance are
+#each of 5 Ω#0
+#6 Ω and 4 Ω#1
+#7 Ω and 4 Ω#0
+#8 Ω and 2 Ω#0#
+b
+
+If R1 and R2 be the resistance of the filament of 40 W and 60 W respectively operating 220 V, then
+#R1 < R2#0
+#R2 < R1#1
+#R1 = R2#0
+#R1 ≥ R2#0#
+b
+
+The resistance of hot filament of the bulb is about 10 times the cold resistance. What will be the resistance of 100 W-220 V lamp, when not in use?
+#48 Ω#0
+#400 Ω#0
+#484 Ω#1
+#48.4 Ω#0#
+c
+
+
+A coil in the heater consume power P on passing current. If it is cut into halves and joined in parallel, it will consume power
+#P#0
+#\(\frac{P}{2}\)#0
+#2P#0
+#4P#1#
+d
+
+A fuse wire repeatedly gets burnt when used with a good heater. It is advised to use a fuse wire of
+#more length#0
+#less radius#0
+#less length#0
+#more radius#1#
+d
+
+A cooler of 1500 W, 200 volt and a fan of 500 W, 200 volt are to be used from a household supply. The rating of fuse to be used is
+#2.5 A#0
+#5.0 A#0
+#7.5 A#0
+#10 A#1#
+d
+
+A current of 1 A is drawn by a filament of an electric bulb. Number of electrons passing through a cross-section of the filament in 16 seconds would be roughly [NCERT Exemplar Problems]
+#1020#1
+#1016#0
+#1018#0
+#1023#0#
+a
+
+What is the maximum resistance which can be made using five resistors each of 1/5 W? [NCERT Exemplar Problems]
+#1/5 Ω#0
+#10 Ω#0
+#5 Ω#0
+#1 Ω#1#
+d
+
+A cylindrical conductor of length l and uniform area of cross-section A has resistance R. Another conductor of length 2l and resistance R of the same material has area of cross-section [NCERT Exemplar Problems]
+#A/2#0
+#3A/2#0
+#2A#1
+#3A#0#
+c
+
+If the current I through a resistor is increased by 100 % (assume that temperature remains unchanged), the increase in power dissipated will be [NCERT Exemplar Problems]
+#100%#0
+#200%#0
+#300 %#1
+#400 %#0#
+c
+
+The resistivity does not change if [NCERT Exemplar Problems]
+#the material is changed#0
+#the temperature is changed#0
+#the shape of the resistor is changed#1
+#both material and temperature are changed#0#
+c
+
+In an electrical circuit two resistors of 2 Ω and 4 Ω respectively are connected in series to a 6 V battery. The heat dissipated by the 4 Ω resistor in 5 s will be [NCERT Exemplar Problems]
+#5 J#0
+#10 J#0
+#20 J#1
+#30 J#0#
+c
+
+Electric potential is a:
+#scalar quantity#1
+#vector quantity#0
+#neither scalar nor vector#0
+#sometimes scalar and sometimes vector#0#
+a
+
+1 mV is equal to:
+#10 volt#0
+#1000 volt#0
+#10-3 volt#1
+#10-6 volt#0#
+c
+
+Coulomb is the SI unit of:
+#charge#1
+#current#0
+#potential difference#0
+#resistance#0#
+a
+
+When electric current is passed, electrons move from:
+#high potential to low potential.#0
+#low potential to high potential.#1
+#in the direction of the current.#0
+#against the direction of the current.#0#
+b
+
+The heating element of an electric iron is made up of:
+#copper#0
+#nichrome#1
+#aluminium#0
+#iron#0#
+b
+
+The electrical resistance of insulators is
+#high#0
+#low#0
+#zero#0
+#infinitely high#1#
+d
+
+Electrical resistivity of any given metallic wire depends upon
+#its thickness#0
+#its shape#0
+#nature of the material#1
+#its length#0#
+c
+
+
+Electric power is inversely proportional to
+#resistance#1
+#voltage#0
+#current#0
+#temperature#0#
+a
+
+What is the commercial unit of electrical energy?
+#Joules#0
+#Kilojoules#0
+#Kilowatt-hour#1
+#Watt-hour#0#
+c
+
+Three resistors of 1 Ω, 2 ft and 3 Ω are connected in parallel. The combined resistance of the three resistors should be
+#greater than 3 Ω#0
+#less than 1 Ω#1
+#equal to 2 Ω#0
+#between 1 Ω and 3 Ω#0#
+b
+
+An electric bulb is connected to a 220V generator. The current is 0.50 A. What is the power of the bulb?
+#440 W#0
+#110 W#1
+#55 W#0
+#0.0023 W#0#
+b
+
+The resistivity of insulators is of the order of
+#10-8 Ω-m#1
+#101 Ω-m#0
+#10-6 Ω-m#0
+#106 Ω-m#0#
+a
+
+1 kWh = ……….. J
+#3.6 × 10-6 J#0
+#\(\frac{1}{3.6}\) × 106 J#0
+#3.6 × 106 J#1
+#\(\frac{1}{3.6}\) × 10-6 J#0#
+c
+
+Which of the following gases are filled in electric bulbs?
+#Helium and Neon#0
+#Neon and Argon#0
+#Argon and Hydrogen#0
+#Argon and Nitrogen#1#
+d
+
+100 J of heat is produced each second in a 4Ω resistor. The potential difference across the resistor will be:
+#30 V#0
+#10 V#1
+#20 V#0
+#25 V#0#
+b
+
+
+
+Physics 12/1
+
+When a glass rod is rubbed with silk, it
+#gains electrons from silk.#0
+#gives electrons to silk.#1
+#gains protons from silk.#0
+#gives protons to silk.#0#
+b
+
+In general, metallic ropes are suspended on the carriers taking inflammable materials. The reason is
+#to control the speed of the carrier.#0
+#to keep the centre of gravity of the carrier nearer to the earth.#0
+#to keep the body of the carrier in contact with the earth.#1
+#none of these.#0#
+c
+
+Two similar spheres having +Q and -Q charges are kept at a certain distance. F force acts between the two. If at the middle of two spheres, another similar sphere having +Q charge is kept, then it experiences a force in magnitude and direction as
+#zero having no direction.#0
+#8F towards +Q charge.#0
+#8F towards -Q charge.#1
+#4F towards +Q charge.#0#
+c
+
+A charge Q is divided into two parts of q and Q – q. If the coulomb repulsion between them when they are separated is to be maximum, the ratio of Q/q should be
+#2:1#1
+#1/2#0
+#4:1#0
+#1/4#0#
+a
+
+10. The electric field inside a spherical shell of uniform surface charge density is
+#zero.#1
+#constant, less than zero.#0
+#directly proportional to the distance from the centre.#0
+#none of the these#0#
+a
+
+12. Electric field at a point varies as r° for
+#an electric dipole#0
+#a point charge#0
+#a plane infinite sheet of charge#1
+#a line charge of infinite length#0#
+c
+
+15. The electric field intensity due to an infinite cylinder of radius R and having charge q per unit length at a distance rir r(r > R) from its axis is
+(a) #directly proportional to r².#0
+(b) #directly proportional to r3.#0
+(c) #inversely proportional to r.#1
+(d) #inversely proportional to r².#0#
+c
+
+18. The magnitude of electric field intensity E is such that, an electron placed in it would experience an electrical force equal to its weight is given by
+#mge#0
+#mg/e#1
+#e/mg#0
+#e²g/m²#0#
+b
+
+20. Which of the following statement is correct? The electric field at a point is [NCERT Exemplar]
+#always continuous.#0
+#continuous if there is a charge at that point.#0
+#discontinuous only if there is a negative charge at that point.#0
+#discontinuous if there is a charge at that point.#1#
+d
+
+21. A point charge +q is placed at a distance d from an isolated conducting plane. The field at a point P on the other side of the plane is [NCERT Exemplar]
+#directed perpendicular to the plane and away from the plane.#1
+#directed perpendicular to the plane but towards the plane.#0
+#directed radially away from the point charge.#0
+#directed radially towards the point charge.#0#
+a
+
+22. Gauss’s law will be invalid if
+#there is magnetic monopoles.#0
+#the inverse square law is not exactly true.#1
+#the velocity of light is not a universal constant.#0
+#none of these.#0#
+b
+
+23. SI unit of permittivity of free space is
+#Farad#0
+#Weber#0
+#C2N-1 m-2#1
+#C2N-1 m-2#0#
+c
+
+24. A charge Q is placed at the centre of the line joining two point charges +q and +q. The ratio of charges Q and q is_
+#4#0
+#1/4#0
+#-4#0
+#-1/4#1#
+d
+
+25. The force per unit charge is known as
+#electric flux#0
+#electric field#1
+#electric potential#0
+#electric current#0#
+b
+
+26. Electric field lines provide information about
+#field strength#0
+#direction#0
+#nature of charge#0
+#all of these#1#
+d
+
+28. The SI unit of electric flux is
+#N C-1 m-2#0
+#N C m-2#0
+#N C-2 m2#0
+#N C-1 m2#1#
+d
+
+29. The unit of electric dipole moment is
+#newton#0
+#coulomb#0
+#farad#0
+#debye#1#
+d
+
+30. Consider a region inside which, there are various types of charges but the total charge is zero. At points outside the region
+#the electric field is necessarily zero.#0
+#the electric field is due to the dipole moment of the charge distribution only.#0
+#the dominant electric field is inversely pro-portional to r3, for large r (distance from ori-gin).#1
+#the work done to move a charged particle along a closed path, away from the region will not be zero.#0#
+c
+
+31. The surface considered for Gauss’s law is called
+#Closed surface#0
+#Spherical surface#0
+#Gaussian surface#1
+#Plane surface#0#
+c
+
+33. Which of the following statements is not true about Gauss’s law?
+#Gauss’s law is true for any closed surface.#0
+#The term q on the right side side of Gauss’s law includes the sum of all charges enclosed by the surface.#0
+#Gauss’s law is not much useful in calculating electrostatic field when the system has some symmetry.#1
+#Gauss’s law is based on the inverse square dependence on distance contained in the coulomb’s law#0#
+c
+
+
