@@ -1,0 +1,321 @@
+Math12 questions chapter 1:
+Let R be a relation on the set L of lines defined by l1 R l2 if l1 is perpendicular to l2, then relation R is
+#reflexive and symmetric#0#symmetric and transitive#0#equivalence relation#0#symmetric#1#
+d
+Given triangles with sides T1 : 3, 4, 5; T2 : 5, 12, 13; T3 : 6, 8, 10; T4 : 4, 7, 9 and a relation R in set of triangles defined as R = {(Δ1, Δ2) : Δ1 is similar to Δ2}. Which triangles belong to the same equivalence class?
+(a) #T1 and T2#
+(b) #T2 and T3#
+(c) #T1 and T3#
+(d) #T1 and T4#
+c
+3. Given set A ={1, 2, 3} and a relation R = {(1, 2), (2, 1)}, the relation R will be
+(a) #reflexive if (1, 1) is added#
+(b) #symmetric if (2, 3) is added#
+(c) #transitive if (1, 1) is added#
+(d) #symmetric if (3, 2) is added#
+c
+4. Given set A = {a, b, c). An identity relation in set A is
+(a) #R = {(a, b), (a, c)}#
+(b) #R = {(a, a), (b, b), (c, c)}#
+(c) #R = {(a, a), (b, b), (c, c), (a, c)}#
+(d) #R= {(c, a), (b, a), (a, a)}#
+b
+5. A relation S in the set of real numbers is defined as xSy ⇒  x – y+ √3 is an irrational number, then relation S is
+(a) #reflexive#
+(b) #reflexive and symmetric#
+(c) #transitive#
+(d) #symmetric and transitive#
+a
+6. Set A has 3 elements and the set B has 4 elements. Then the number of injective functions that can be defined from set A to set B is
+(a) #144#
+(b) #12#
+(c) #24#
+(d) #64#
+c
+7. Given a function lf as f(x) = 5x + 4, x ∈ R. If g : R → R is inverse of function ‘f then
+(a) #g(x) = 4x + 5#
+(b) #g(x) = 54x−5#
+(c) #g(x) = x−45#
+(d) #g(x) = 5x – 4#
+c
+
+8. Let A = {a, b }. Then number of one-one functions from A to A possible are
+(a) #2#
+(b) #4#
+(c) #1#
+(d) #3#
+a
+math12 chapter 2:
+
+1. tan-1{sin (-π2)} is equal to
+(a) #-1#
+(b) #1#
+(c) #π2#
+(d) #–π4#
+d
+
+2. The domain of the function^ = sin’ -‘(V) is
+(a) #[0, 1]#
+(b) #(0, 1)#
+(c) #[-1, 1]#
+(d) #Φ#
+c
+
+3. The value of tan²(sec-12) + cot2(cosec-13) is
+(a) #5#
+(b) #11#
+(c) #13#
+(d) #15#
+b
+
+4. If sin-1x + sin-1y + sin-1z = then the value of x + y² + z3 is
+(a) #1#
+(b) #3#
+(c) #2#
+(d) #5#
+b
+5. The domain of y = cos-1(x² – 4) is
+(a) #[3, 5]#
+(b) #[0, π]#
+(c) #[-√5 ,-√3] ∩ [-√5,√3]#
+(d) #[-√5 ,-√3] ∪ [√3, √5]#
+d
+
+Math12 chapter3:
+1. If a matrix has 6 elements, then number of possible orders of the matrix can be
+(a) #2#
+(b) #4#
+(c) #3#
+(d) #6#
+b
+2. Total number of possible matrices of order 2 × 3 with each entry 1 or 0 is
+(a) #6#
+(b) #36#
+(c) #32#
+(d) #64#
+d
+3. If A is a square matrix such that A²=A, then (I + A)² – 3A is
+(a) #I#
+(b) #2A#
+(c) #3I#
+(d) #A#
+a
+6. If matrices A and B are inverse of each other then
+(a) #AB = BA#
+(b) #AB = BA = I#
+(c) #AB = BA = 0#
+(d) #AB = 0, BA = I#
+b
+4. The diagonal elements of a skew symmetric matrix are
+(a) #all zeroes#
+(b) #are all equal to some scalar k(≠ 0)#
+(c) #can be any number#
+(d) #none of these#
+a
+5. If A = [5yx0] and A = A’ then
+(a) #x = 0, y = 5#
+(b) #x = y#
+(c) #x + y = 5#
+(d) #x – y = 5#
+b
+6. If a matrix A is both symmetric and skew symmetric then matrix A is
+(a) #a scalar matrix#
+(b) #a diagonal matrix#
+(c) #a zero matrix of order n × n#
+(d) #a rectangular matrix.#
+c
+
+Math chapter 4:
+1. Let A be a square matrix of order 2 × 2, then |KA| is equal to
+(a) #K|A|#
+(b) #K²|A|#
+(c) #K3|A|#
+(d) #2K|A|#
+b
+2. A and B are invertible matrices of the same order such that |(AB)-1| = 8, If |A| = 2, then |B| is
+(a) #16#
+(b) #4#
+(c) #6#
+(d) #1/16#
+d
+Math12 chapter 5:
+
+1. A function /is said to be continuous for x ∈ R, if
+(a) #it is continuous at x = 0#
+(b) #differentiable at x = 0#
+(c) #continuous at two points#
+(d) #differentiable for x ∈ R#
+d
+2. Write the number of points where f(x) = |x + 2| + |x – 3| is not differentiable.
+(a) #2#
+(b) #3#
+(c) #0#
+(d) #1#
+a
+3. Derivative of cot x° with respect to x is
+(a) #cosec x°#
+(b) #cosec x° cot x°#
+(c) #-1° cosec2 x°#
+(d) #-1° cosec x° cot x°#
+c
+4. If f(x) = log(logx)/2logx, then f'(e) is
+(a) #0#
+(b) #1#
+(c) #1/e#
+(d) #1/2e#
+d
+5. If f(x) = ex and g(x) = lnx, then (gof)’ (x) is
+(a) #0#
+(b) #1#
+(c) #e#
+(d) #1 + e#
+b
+6. The derivative of sin x with respect to log x is
+(a) #cos x#
+(b) #x cos x#
+(c) #cosx/logx#
+(d) #(cosx)/x#
+b
+7. If y = Ae^5x + Be^-5x ,then d^2y,dx^2 is equal to
+(a) #25y#
+(b) #5y#
+(c) #-25y#
+(d) #10y#
+a
+
+Math12 chapter6:
+1. The total revenue in ₹ received from the sale of x units of an article is given by R(x) = 3x² + 36x + 5. The marginal revenue when x = 15 is (in ₹ )
+(a) #126#
+(b) #116#
+(c) #96#
+(d) #90#
+a
+2. The side of an equilateral triangle is increasing at the rate of 2 cm/s. The rate at which area increases when the side is 10 is
+(a) #10 cm²/s#
+(b) #√3 cm²/s#
+(c) #10√3 cm²/s#
+(d) #10/3cm²/s#
+c
+3. The point(s) on the curve y = x², at which y-coordinate is changing six times as fast as x-coordinate is/are
+(a) #(2, 4)#
+(b) #(3, 9)#
+(c) #(3, 9), (9, 3)#
+(d) #(6, 2)#
+b
+4. The equation of the normal to the curve y = sin x at (0, 0) is
+(a) #x = 0#
+(b) #y = 0#
+(c) #x + y = 0#
+(d) #x – y = 0#
+c
+5. The line y = x + 1 is a tangent to the curve y2 = 4x at the point
+(a) #(-1, 2)#
+(b) #(1, 2)#
+(c) #(1, -2)#
+(d) #(2, 1)#
+b
+6. The curves y = ae^-x and y = be^x are orthogonal if
+(a) #a = b#
+(b) #a = -b#
+(c) #ab = -1#
+(d) #ab = 1#
+d
+7. If the curves ay + x2 = 7 and x3 = y cut orthogonally at (1,1), then the value of a is
+(a) #1#
+(b) #0#
+(c) #-6#
+(d) #6#
+d
+8. The tangent to the curve y = e^2x at the point (0, 1) meets the x-axis at
+(a) #(0, 1)#
+(b) #(2, 0)#
+(c) #(-12, 0)#
+(d) #(-2, 0)#
+c
+9. The angle between the curve y² = x and x² =y at (1, 1) is
+(a) #60°#
+(b) #tan-1(4/3)#
+(c) #cot-1(4/3)#
+(d) #90°#
+c
+10. The absolute maximum value of y = x3 – 3x + 2 in 0 ≤ x ≤ 2 is
+(a) #4#
+(b) #6#
+(c) #2#
+(d) #0#
+a
+
+Math12 chapter7:
+
+1. ∫cot²x dx equals to
+(a) #cot x – x + C#
+(b) #cot x + x + C#
+(c) #-cot x + x + C#
+(d) #-cot x – x + C#
+d
+2. If ∫ sec²(7 – 4x)dx = a tan (7 – 4x) + C, then value of a is
+(a) #7#
+(b) #-4#
+(c) #3#
+(d) #−1/4#
+d
+3. If a is such that ∫xdx ≤ a + 4,where lower limit=0,upper limit=a, then
+(a) #0 ≤ a ≤ 4#
+(b) #-2 ≤ a ≤ 0#
+(c) #a ≤ -2 or a ≤ 4#
+(d) #-2 ≤ a ≤ 4#
+d
+4. Area bounded by the curve y = sin x and the x-axis between x = 0 and x = 2π is
+(a) #2 sq units#
+(b) #0 sq units#
+(c) #3 sq units#
+(d) #4 sq units#
+d
+5. Area of the region bounded by the curve y = √(49-x^2) and the x-axis is
+(a) #49π/2 sq units#
+(b) #98π sq units#
+(c) #49π sq units#
+(d) #240π sq units#
+a
+6. Area of the region bounded by the curve x = 2y + 3, the y-axis and between y = -1 and y = 1 is
+(a) #4 sq units 3#
+(b) #3/2 sq units#
+(c) #6 sq units#
+(d) #8 sq units#
+c
+7. The order of the differential equation of all the circles of given radius 4 is
+(a) #1#
+(b) #2#
+(c) #3#
+(d) #4#
+b
+8. The differential equation of the family of lines passing through origin is
+(a) #y = mx#
+(b) #dy/dx = m#
+(c) #x dy – y dx = 0#
+(d) #dy/dx = 0#
+c
+9. If |a⃗ | = 4 and -3 ≤ λ ≤ 2 then the range of |λa⃗ | is
+(a) #[0, 8]#
+(b) #[-12, 8]#
+(c) #[0, 12]#
+(d) #[8, 12]#
+c
+10.A die is thrown again and again until three sixes are obtained. Find the probability of obtaining third six in the sixth throw of the die.
+(a) #625/23329#
+(b) #621/25329#
+(c) #625/23328#
+(d) #620/23328#
+c
+11.The probability of a man hitting a target is 14. How many times must he fire so that the probability of his hitting the target at least once is greater than 23?
+(a) #4#
+(b) #3#
+(c) #2#
+(d) #1#
+a
+12.Eight coins are thrown simultaneously. Find the probability of getting atleast 6 heads.
+(a) #31/128#
+(b) #37/256#
+(c) #37/128#
+(d) #31/256#
+b
