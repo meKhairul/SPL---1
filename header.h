@@ -9,4 +9,4 @@ double Calculate_Performance(double,int []);
 void monte();
 double count_varience(double,double [],int);
 void generate_score(double [],int,double,double);
-
+void create_student_file(double [],string,string);
