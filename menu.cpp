@@ -22,7 +22,7 @@ class TeachersLogInManager
         {
 
         }
-        void login()
+        bool login()
         {
             while(1)
             {
@@ -43,11 +43,13 @@ class TeachersLogInManager
                 if(fl)
                 {
                     cout << "\n\t\t\t\t\tLogged In SUCCESSFULLY!\n";
+                    return 1;
                     break;
                 }
                 else
                 {
                     cout << "\n\t\t\t\t\tThis account is not valid.Try again or Create a new Account";
+                    return 0;
                     break;
                 }
 
@@ -134,26 +136,30 @@ void menu()
                 else if(x==2)
                 {
                     TeachersLogInManager app;
-                    app.login();
-                    cout<<"\n\t\t\t\t\t1.Print Rasch Result\n\t\t\t\t\t2.Print Monte Carlo Result\n\t\t\t\t\t0.Menu\n";
-                    int res;
-                    cin>>res;
-                    if(res==1)
+                    bool is_success = app.login();
+                    if(is_success)
                     {
-                        cout << "\n\t\t\t\t\tRasch Result of All Students : \n";
-                        system("rasch_result.txt");
-                        break;
+                        cout<<"\n\t\t\t\t\t1.Print Rasch Result\n\t\t\t\t\t2.Print Monte Carlo Result\n\t\t\t\t\t0.Menu\n";
+                        int res;
+                        cin>>res;
+                        if(res==1)
+                        {
+                            cout << "\n\t\t\t\t\tRasch Result of All Students : \n";
+                            system("rasch_result.txt");
+                            break;
+                        }
+                        else if(res==2)
+                        {
+                            cout << "\n\t\t\t\t\Monte Carlo Result of All Students : \n";
+                            system("monte_result.txt");
+                            break;
+                        }
+                        else
+                        {
+                            break;
+                        }
                     }
-                    else if(res==2)
-                    {
-                        cout << "\n\t\t\t\t\Monte Carlo Result of All Students : \n";
-                        system("monte_result.txt");
-                        break;
-                    }
-                    else
-                    {
-                        break;
-                    }
+
                 }
                 else
                 {
@@ -255,10 +261,10 @@ void read_account_info()
 
     }
 
-    for(int i=0;i<Accounts_info.size();i++)
+    /*for(int i=0;i<Accounts_info.size();i++)
     {
         cout << Accounts_info[i].account_username << " " << Accounts_info[i].account_password << "\n";
-    }
+    }*/
 
     fclose(fp);
 }
