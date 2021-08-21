@@ -397,22 +397,13 @@ double count_varience(double mean,double arr[],int iter)
 
 void create_student_file(double difficult_level[],string std_name,string std_id)
 {
-    //FILE *fp;
-    //char ch;
-    //string str,question;
-    //fp = fopen("student.txt","a" );
-    //if(fp==NULL)
-    //{
-    //    cout << "File isn't open#";
-    //}
-    //fprintf(fp,"Student Name\t\tStudent Id\t\tAbility\t\tStandard Error\n");
-    //fprintf(fp,"%s\t\t\t%s\t\t%lf\t\t%lf\n",std_name,std_id,Est_ability,std_err);
+
     cout << "Student Name\t\tStudent Id\t\tAbility\t\tStandard Error\n";
     cout << std_name << "\t\t\t" << std_id << "\t\t" << Est_ability << "\t\t" << std_err << "\n";
 
     std::ofstream file;
 
-    file.open("student.txt", std::ios_base::app); // append instead of overwrite
+    file.open("rasch_result.txt", std::ios_base::app);
     //fp << "Student Name\t\tStudent Id\t\tAbility\t\tStandard Error\n";
     file << std_name << "\t\t\t" << std_id << "\t\t" << Est_ability << "\t\t" << std_err << "\n";
     file.close();

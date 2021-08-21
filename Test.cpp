@@ -15,8 +15,10 @@ void Test(string EasyQarr[],string MediumQarr[] , string HardQarr[] , string Sup
         {
             //system("color 09");
             int random = rand()%90;
+
             if(random%9==0&&make1[random]==0)
             {
+                question1:
                 cout << EasyQarr[random] << endl;
                 make1[random]=1;
                 int t=0,c[5];
@@ -136,7 +138,7 @@ void Test(string EasyQarr[],string MediumQarr[] , string HardQarr[] , string Sup
                     else
                         continue;
                 }
-                else
+                else if(ans=="4")
                 {
                     if(EasyQarr[c[4]+1]=="1")
                     {
@@ -165,6 +167,25 @@ void Test(string EasyQarr[],string MediumQarr[] , string HardQarr[] , string Sup
                     else
                         continue;
                 }
+                else if(ans=="SKIP")
+                {
+                    cout << "Are you sure to skip this question??";
+                    cout << "1.Yes\n2.No\n";
+                    int choice;
+                    cin>>choice;
+                    if(choice==1)
+                    {
+                        goto check;
+                    }
+                    else
+                    {
+                        for(int i=random+1;i<=random+8;i++)
+                        {
+                            make1[i]=0;
+                        }
+                        goto question1;
+                    }
+                }
 
             }
 
@@ -177,9 +198,11 @@ void Test(string EasyQarr[],string MediumQarr[] , string HardQarr[] , string Sup
         int iter2=0;
         while(1)
         {
-            int random = rand()%80;
+            int random = rand()%90;
+
             if(random%9==0&&make2[random]==0)
             {
+                question2:
                 cout << MediumQarr[random] << endl;
                 make2[random]=1;
                 int t=0,c[5];
@@ -298,7 +321,7 @@ void Test(string EasyQarr[],string MediumQarr[] , string HardQarr[] , string Sup
                     else
                         continue;
                 }
-                else
+                else if(ans=="4")
                 {
                     if(MediumQarr[c[4]+1]=="1")
                     {
@@ -328,6 +351,25 @@ void Test(string EasyQarr[],string MediumQarr[] , string HardQarr[] , string Sup
                     else
                         continue;
                 }
+                else if(ans=="SKIP")
+                {
+                    cout << "Are you sure to skip this question??";
+                    cout << "1.Yes\n2.No\n";
+                    int choice;
+                    cin>>choice;
+                    if(choice==1)
+                    {
+                        goto check;
+                    }
+                    else
+                    {
+                        for(int i=random+1;i<=random+8;i++)
+                        {
+                            make2[i]=0;
+                        }
+                        goto question2;
+                    }
+                }
             }
 
         }
@@ -339,9 +381,10 @@ void Test(string EasyQarr[],string MediumQarr[] , string HardQarr[] , string Sup
         int iter3=0;
         while(1)
         {
-            int random = rand()%80;
+            int random = rand()%90;
             if(random%9==0&&make3[random]==0)
             {
+                question3:
                 cout << HardQarr[random] << endl;
                 make3[random]=1;
                 int t=0,c[5];
@@ -468,7 +511,7 @@ void Test(string EasyQarr[],string MediumQarr[] , string HardQarr[] , string Sup
                     }
 
                 }
-                else
+                else if(ans=="4")
                 {
                     if(HardQarr[c[4]+1]=="1")
                     {
@@ -502,6 +545,25 @@ void Test(string EasyQarr[],string MediumQarr[] , string HardQarr[] , string Sup
                     else
                         continue;
                 }
+                else if(ans=="SKIP")
+                {
+                    cout << "Are you sure to skip this question??";
+                    cout << "1.Yes\n2.No\n";
+                    int choice;
+                    cin>>choice;
+                    if(choice==1)
+                    {
+                        goto check;
+                    }
+                    else
+                    {
+                        for(int i=random+1;i<=random+8;i++)
+                        {
+                            make3[i]=0;
+                        }
+                        goto question3;
+                    }
+                }
 
             }
 
@@ -513,9 +575,10 @@ void Test(string EasyQarr[],string MediumQarr[] , string HardQarr[] , string Sup
         int iter4=0;
         while(1)
         {
-            int random = rand()%80;
+            int random = rand()%90;
             if(random%9==0&&make4[random]==0)
             {
+                question4:
                 cout << SuperHardQarr[random] << endl;
                 make4[random]=1;
                 int t=0,c[5];
@@ -640,7 +703,7 @@ void Test(string EasyQarr[],string MediumQarr[] , string HardQarr[] , string Sup
                     }
 
                 }
-                else
+                else if(ans=="4")
                 {
                     if(SuperHardQarr[c[4]+1]=="1")
                     {
@@ -673,6 +736,25 @@ void Test(string EasyQarr[],string MediumQarr[] , string HardQarr[] , string Sup
                     }
                     else
                         continue;
+                }
+                else if(ans=="SKIP")
+                {
+                    cout << "Are you sure to skip this question??";
+                    cout << "1.Yes\n2.No\n";
+                    int choice;
+                    cin>>choice;
+                    if(choice==1)
+                    {
+                        goto check;
+                    }
+                    else
+                    {
+                        for(int i=random+1;i<=random+8;i++)
+                        {
+                            make4[i]=0;
+                        }
+                        goto question4;
+                    }
                 }
             }
 

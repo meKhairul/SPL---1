@@ -57,7 +57,7 @@ int generate_monte(int lower,int upper,int number)
     Sum_Inform += Inform[number];
     std_error[number] = sqrt(1.0/Sum_Inform);
 
-    int flag=0;
+    int flag=0,skipable;
     while(!flag){
     int random = rand()%90;
     if(random%9==0&&visit[dif][random]==0)
@@ -172,12 +172,23 @@ int generate_monte(int lower,int upper,int number)
         }
         else if(response=="SKIP")
         {
+            if(skipable>2)
+            {
+                cout << "You can not skip question more than 3 times!\nGive your answer__";
+
+                for(int i=random+1; i<=random+8; i++)
+                {
+                    visit[dif][i]=0;
+                }
+                goto question;
+            }
             cout << "Are you sure to skip this question??\n";
             cout << "1.Yes\n2.No\n";
             int choice;
             cin>>choice;
             if(choice==1)
             {
+                skipable++;
                 flag=0;
             }
             else

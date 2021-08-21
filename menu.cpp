@@ -124,7 +124,7 @@ void menu()
        {
             int x;
             while(1){
-                cout<<"\t\t\t\t\t1.Create Account\n\t\t\t\t\t2.LogIn\n\t\t\t\t\t0.Menu\n";
+                cout<<"\n\t\t\t\t\t1.Create Account\n\t\t\t\t\t2.LogIn\n\t\t\t\t\t0.Menu\n";
                 cin>>x;
                 if(x==1)
                 {
@@ -135,6 +135,25 @@ void menu()
                 {
                     TeachersLogInManager app;
                     app.login();
+                    cout<<"\n\t\t\t\t\t1.Print Rasch Result\n\t\t\t\t\t2.Print Monte Carlo Result\n\t\t\t\t\t0.Menu\n";
+                    int res;
+                    cin>>res;
+                    if(res==1)
+                    {
+                        cout << "\n\t\t\t\t\tRasch Result of All Students : \n";
+                        system("rasch_result.txt");
+                        break;
+                    }
+                    else if(res==2)
+                    {
+                        cout << "\n\t\t\t\t\Monte Carlo Result of All Students : \n";
+                        system("monte_result.txt");
+                        break;
+                    }
+                    else
+                    {
+                        break;
+                    }
                 }
                 else
                 {
@@ -151,17 +170,17 @@ void menu()
             cin>>stdName;
             cout <<"\n\t\t\t\t\tEnter student id(e.g.BSSE1118): ";
             cin>>stdId;
-            cout << "\t\t\t\t\t1.Start By 4 Level Test\n\t\t\t\t\t2.Test By Rasch Algorithm\n\t\t\t\t\t3.Test By Monte Carlo Algo\n\t\t\t\t\t0.Exit\n";
+            cout << "\n\t\t\t\t\t1.Start By 4 Level Test\n\t\t\t\t\t2.Test By Rasch Algorithm\n\t\t\t\t\t3.Test By Monte Carlo Algo\n\t\t\t\t\t0.Exit\n";
             cin>>t;
             if(t==1)
             {
-                cout << "If You Want To Skip Question Write \'SKIP\' \n";
+                cout << "\n\t\t\t\t\tIf You Want To Skip Question Write \'SKIP\'.You can not skip more than 3 times. \n";
                 readFile();
 
             }
             else if(t==2)
             {
-                cout << "If You Want To Skip Question Write \'SKIP\' \n";
+                cout << "\n\t\t\t\t\tIf You Want To Skip Question Write \'SKIP\'.You can not skip more than 3 times. \n";
                 rasch(stdName,stdId);
             }
             else if(t==0)
@@ -170,7 +189,7 @@ void menu()
             }
             else if(t==3)
             {
-                cout << "If You Want To Skip Question Write \'SKIP\' \n";
+                cout << "\n\t\t\t\t\tIf You Want To Skip Question Write \'SKIP\'.You can not skip more than 3 times.\n";
                 monte(stdName,stdId);
             }
        }
