@@ -2,6 +2,7 @@
 
 string Rasch[140][10000];
 int arr[140],check[140][10000];
+double std_err,Est_ability,Prob[50];
 void ReadRasch()
 {
 
@@ -52,7 +53,7 @@ int generate_item(double D)
         }
     }
 
-    int flag=0;
+    int flag=0,skip=0;
     while(!flag)
     {
         int random = rand()%90;
@@ -164,12 +165,22 @@ int generate_item(double D)
             }
             else if(ans=="SKIP")
                 {
+                    if(skip>2)
+                    {
+                        cout << "You can not skip question more than 3 times!\nGive your answer__";
+                        for(int i=random+1;i<=random+8;i++)
+                        {
+                            check[x][i]=0;
+                        }
+                        goto question;
+                    }
                     cout << "Are you sure to skip this question??\n";
                     cout << "1.Yes\n2.No\n";
                     int choice;
                     cin>>choice;
                     if(choice==1)
                     {
+                        skip++;
                         flag=0;
                         continue;
                     }
@@ -189,7 +200,7 @@ int generate_item(double D)
 
 int Stop_rule(int L)
 {
-    if(L>=20)
+    if(L>15)
     {
         return 1;
     }
@@ -213,8 +224,8 @@ void rasch(string std_name,string std_id)
     int iter=0;
 
 Loop:
-    ofstream file ("student.txt");
-    file << "Student Name\t\tStudent Id\t\tAbility\t\tStandard Error\n";
+    //ofstream file ("student.txt");
+    //file << "Student Name\t\tStudent Id\t\tAbility\t\tStandard Error\n";
     while(iter<=30)
     {
 
@@ -263,7 +274,7 @@ Loop:
             }
             else if(B-S > T)
             {
-                file << std_name << "\t\t" << std_id << "\t\t\n";
+                //file << std_name << "\t\t" << std_id << "\t\t\n";
                 cout << "Student's name : " << std_name << "\n";
                 cout << "You are passed\n";
                 cout << "Your Ability :" << Calculate_Performance(B,arr) <<"%\n";
@@ -273,7 +284,7 @@ Loop:
             }
             else if((B+S)<T)
             {
-                file << std_name << "\t\t" << std_id << "\t\t\n";
+                //file << std_name << "\t\t" << std_id << "\t\t\n";
                 cout << "Student's name : " << std_name << "\n";
                 cout << "You are failed\n";
                 cout << "Your Ability :" << Calculate_Performance(B,arr) <<"%\n";
@@ -284,20 +295,22 @@ Loop:
         }
         if(iter==30)
         {
-            file << std_name << "\t\t" << std_id << "\t\t\n";
+            //file << std_name << "\t\t" << std_id << "\t\t\n";
             cout << "Student's name : " << std_name << "\n";
             cout << "You are passed\n";
             cout << "Your Ability :" << Calculate_Performance(B,arr) <<"%\n";
             generate_score(difficult_level,iter,R,L);
         }
     }
-    file.close();
+
+    create_student_file(difficult_level,std_name,std_id);
+
 
 }
 
 void generate_score(double difficulty_level[],int iter,double R,double L)
 {
-    double d_sum,D_mean,Varience,Est_ability,Prob[50],raw_score,model_varience,new_est_ability=0.0;
+    double d_sum=0.0,D_mean,Varience,raw_score,model_varience,new_est_ability=0.0;
     double W = L-R;
     for(int i=1;i<iter;i++)
     {
@@ -339,7 +352,7 @@ void generate_score(double difficulty_level[],int iter,double R,double L)
             {
                 //ofstream file ("student.txt");
                 Est_ability = new_est_ability;
-                double std_err = sqrt(1/model_varience);
+                std_err = sqrt(1/model_varience);
                 //file << Est_ability << "\t\t" << std_err << "\t\t\n";
                 //file.close();
                 cout << "And his Estimate ability is : "<< Est_ability << "\n";
@@ -380,4 +393,27 @@ double count_varience(double mean,double arr[],int iter)
         var = var + dif;
     }
     return var/(iter-1);
+}
+
+void create_student_file(double difficult_level[],string std_name,string std_id)
+{
+    //FILE *fp;
+    //char ch;
+    //string str,question;
+    //fp = fopen("student.txt","a" );
+    //if(fp==NULL)
+    //{
+    //    cout << "File isn't open#";
+    //}
+    //fprintf(fp,"Student Name\t\tStudent Id\t\tAbility\t\tStandard Error\n");
+    //fprintf(fp,"%s\t\t\t%s\t\t%lf\t\t%lf\n",std_name,std_id,Est_ability,std_err);
+    cout << "Student Name\t\tStudent Id\t\tAbility\t\tStandard Error\n";
+    cout << std_name << "\t\t\t" << std_id << "\t\t" << Est_ability << "\t\t" << std_err << "\n";
+
+    std::ofstream file;
+
+    file.open("student.txt", std::ios_base::app); // append instead of overwrite
+    //fp << "Student Name\t\tStudent Id\t\tAbility\t\tStandard Error\n";
+    file << std_name << "\t\t\t" << std_id << "\t\t" << Est_ability << "\t\t" << std_err << "\n";
+    file.close();
 }
