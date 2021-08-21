@@ -195,7 +195,7 @@ int generate_monte(int lower,int upper,int number)
 }
 
 
-void monte()
+void monte(string std_name,string std_id)
 {
 
     readMonte();
@@ -250,5 +250,22 @@ void monte()
     {
         cout << setprecision(1)<< "\t" <<i<<"\t  "<<b[i]<<"\t\t"<< Probability[i]<< "\t\t" <<answer[i]<< "\t\t" <<Estimate_ability[i-1]<<"\t\t"<<std_error[i]<<"\n";
     }
+    create_monte_result_file(std_name,std_id,question);
 
+}
+
+void create_monte_result_file(string std_name,string std_id,int numOfQuestion)
+{
+    std::ofstream file;
+
+    file.open("monte_result.txt", std::ios_base::app);
+    //fp << "Student Name\t\tStudent Id\t\tAbility\t\tStandard Error\n";
+    file << std_name << "\t\t\t" << std_id << "\t\t" << Estimate_ability[numOfQuestion-1] << "\t\t" << std_error[numOfQuestion-1] << "\n\n\n";
+    file << "Question number\tDifficulty\tProbability\tAnswer\tStudent's Ability\tStandard Error\n";
+    for(int i=1;i<=numOfQuestion;i++)
+    {
+        file << setprecision(1)<< "\t" <<i<<"\t  "<<b[i]<<"\t\t"<< Probability[i]<< "\t\t" <<answer[i]<< "\t\t" <<Estimate_ability[i-1]<<"\t\t"<<std_error[i]<<"\n";
+    }
+
+    file.close();
 }
