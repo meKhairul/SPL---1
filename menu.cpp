@@ -11,6 +11,7 @@ typedef struct  account {
 
 }account;
 vector <account>Accounts_info;
+vector <account>Students_account_info;
 
 class TeachersLogInManager
 {
@@ -18,21 +19,31 @@ class TeachersLogInManager
     public:
         string userNameAttempt;
         string passwordAttempt;
-        TeachersLogInManager()
+        vector <account>accounts_info;
+        int who;
+        TeachersLogInManager(int x)
         {
-
+            who = x;
         }
-        bool login()
+        bool login(bool who)
         {
             while(1)
             {
+                if(who==1)
+                {
+                    accounts_info = Accounts_info;
+                }
+                else if(who==0)
+                {
+                    accounts_info = Students_account_info;
+                }
                 cout << "\n\t\t\t\t\tYou need to enter username and password\n\t\t\t\t\tUsername and Password: ";
                 cin >> userNameAttempt;
                 cin>>passwordAttempt;
                 int fl=0;
-                for(int i=0;i<Accounts_info.size();i++)
+                for(int i=0;i<accounts_info.size();i++)
                 {
-                    if(userNameAttempt==Accounts_info[i].account_username && passwordAttempt == Accounts_info[i].account_password)
+                    if(userNameAttempt==accounts_info[i].account_username && passwordAttempt == accounts_info[i].account_password)
                     {
                         fl=1;
 
@@ -56,7 +67,7 @@ class TeachersLogInManager
             }
 
         }
-        void Create_LogIn()
+        void Create_LogIn(bool who)
         {
             account ac;
             string your_username;
@@ -67,11 +78,19 @@ class TeachersLogInManager
             while(1)
             {
                 bool is_valid = 1;
+                if(who==1)
+                {
+                    accounts_info = Accounts_info;
+                }
+                else if(who==0)
+                {
+                    accounts_info = Students_account_info;
+                }
                 cout << "\n\t\t\t\t\tEnter your username : \n";
                 cin >> your_username;
-                for(int i=0;i<Accounts_info.size();i++)
+                for(int i=0;i<accounts_info.size();i++)
                 {
-                    if(your_username==Accounts_info[i].account_username)
+                    if(your_username==accounts_info[i].account_username)
                     {
                         is_valid = 0;
                         cout << "\n\t\t\t\t\tThis username is already taken.Try another.\n";
@@ -96,12 +115,27 @@ class TeachersLogInManager
             ac.last_name = your_lastname;
             ac.email_address = your_email;
             ac.account_password = your_password;
-            Accounts_info.push_back(ac);
+            if(who==1)
+            {
+                Accounts_info.push_back(ac);
+            }
+            else if(who==0)
+            {
+                Students_account_info.push_back(ac);
+            }
+
 
             cout << "\n\t\t\t\t\tAccount created successfully.Now,Log in to your account\n";
             std::ofstream file;
+            if(who==1)
+            {
+                file.open("teachers_account_info.txt", std::ios_base::app);
+            }
+            else if(who==0)
+            {
+                file.open("students_account_info.txt", std::ios_base::app);
+            }
 
-            file.open("teachers_account_info.txt", std::ios_base::app);
             file << ac.account_username << "#" << ac.first_name << "#" << ac.last_name << "#" << ac.email_address << "#" << ac.account_password << "#";
             file.close();
 
@@ -114,29 +148,30 @@ void menu()
 {
    int t;
 
-   read_account_info();
+
 
    while(1)
    {
 
        cout<<"\t\t\t\t\t1.Teacher\n\t\t\t\t\t2.Student\n\t\t\t\t\t0.Exit\n";
        cin>>t;
-
+       read_account_info(t);
        if(t==1)
        {
             int x;
-            while(1){
+            while(1)
+            {
                 cout<<"\n\t\t\t\t\t1.Create Account\n\t\t\t\t\t2.LogIn\n\t\t\t\t\t0.Menu\n";
                 cin>>x;
                 if(x==1)
                 {
-                    TeachersLogInManager app;
-                    app.Create_LogIn();
+                    TeachersLogInManager app(1);
+                    app.Create_LogIn(1);
                 }
                 else if(x==2)
                 {
-                    TeachersLogInManager app;
-                    bool is_success = app.login();
+                    TeachersLogInManager app(1);
+                    bool is_success = app.login(1);
                     if(is_success)
                     {
                         cout<<"\n\t\t\t\t\t1.Print Rasch Result\n\t\t\t\t\t2.Print Monte Carlo Result\n\t\t\t\t\t0.Menu\n";
@@ -170,34 +205,64 @@ void menu()
        }
        else if(t==2)
        {
-            //Students Informations required.
-            string stdName,stdId;
-            cout<<"\n\t\t\t\t\tEnter your name: ";
-            cin>>stdName;
-            cout <<"\n\t\t\t\t\tEnter student id(e.g.BSSE1118): ";
-            cin>>stdId;
-            cout << "\n\t\t\t\t\t1.Start By 4 Level Test\n\t\t\t\t\t2.Test By Rasch Algorithm\n\t\t\t\t\t3.Test By Monte Carlo Algo\n\t\t\t\t\t0.Exit\n";
-            cin>>t;
-            if(t==1)
+           int x;
+            while(1)
             {
-                cout << "\n\t\t\t\t\tIf You Want To Skip Question Write \'SKIP\'.You can not skip more than 3 times. \n";
-                readFile();
+                cout<<"\n\t\t\t\t\t1.Create Account\n\t\t\t\t\t2.LogIn\n\t\t\t\t\t0.Menu\n";
+                cin>>x;
+                if(x==1)
+                {
+                    TeachersLogInManager app(0);
+                    app.Create_LogIn(0);
+                }
+                else if(x==2)
+                {
+                    TeachersLogInManager app(0);
+                    bool is_success = app.login(0);
+                    if(is_success)
+                    {
+                        //Students Informations required.
+                        string stdName,stdId;
+                        cout<<"\n\t\t\t\t\tEnter your name: ";
+                        cin>>stdName;
+                        cout <<"\n\t\t\t\t\tEnter student id(e.g.BSSE1118): ";
+                        cin>>stdId;
+                        cout << "\n\t\t\t\t\t1.Start By 4 Level Test\n\t\t\t\t\t2.Test By Rasch Algorithm\n\t\t\t\t\t3.Test By Monte Carlo Algo\n\t\t\t\t\t0.Menu\n";
+                        cin>>t;
+                        if(t==1)
+                        {
+                            cout << "\n\t\t\t\t\tIf You Want To Skip Question Write \'SKIP\'.You can not skip more than 3 times. \n";
+                            readFile();
 
-            }
-            else if(t==2)
-            {
-                cout << "\n\t\t\t\t\tIf You Want To Skip Question Write \'SKIP\'.You can not skip more than 3 times. \n";
-                rasch(stdName,stdId);
-            }
-            else if(t==0)
-            {
-                exit(0);
-            }
-            else if(t==3)
-            {
-                cout << "\n\t\t\t\t\tIf You Want To Skip Question Write \'SKIP\'.You can not skip more than 3 times.\n";
-                monte(stdName,stdId);
-            }
+                        }
+                        else if(t==2)
+                        {
+                            cout << "\n\t\t\t\t\tIf You Want To Skip Question Write \'SKIP\'.You can not skip more than 3 times. \n";
+                            rasch(stdName,stdId);
+                        }
+                        else if(t==0)
+                        {
+                            break;
+                        }
+                        else if(t==3)
+                        {
+                            cout << "\n\t\t\t\t\tIf You Want To Skip Question Write \'SKIP\'.You can not skip more than 3 times.\n";
+                            monte(stdName,stdId);
+                        }
+                    }
+                    else
+                    {
+                        cout << "\n\t\t\t\t\tYou can not able to log in\n";
+                        break;
+                    }
+
+                }
+                else
+                {
+                    break;
+                }
+           }
+
        }
        else if(t==0)
        {
@@ -207,12 +272,23 @@ void menu()
 
 }
 
-void read_account_info()
+void read_account_info(int who)
 {
     FILE *fp;
     char ch;
     string str,info;
-    fp = fopen("teachers_account_info.txt","r" );
+    if(who==1)
+    {
+        fp = fopen("teachers_account_info.txt","r" );
+    }
+    else if(who==2)
+    {
+        fp = fopen("students_account_info.txt","r" );
+    }
+    else if(who==0)
+    {
+        return;
+    }
     if(fp==NULL)
     {
         cout << "File isn't open#";
@@ -256,7 +332,14 @@ void read_account_info()
         {
             acc.account_password = teachers_info[i];
             //cout << acc.account_password << "\n";
-            Accounts_info.push_back(acc);
+            if(who==1)
+            {
+                Accounts_info.push_back(acc);
+            }
+            else if(who==2)
+            {
+                Students_account_info.push_back(acc);
+            }
         }
 
     }
