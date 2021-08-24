@@ -57,7 +57,7 @@ int generate_monte(int lower,int upper,int number)
     Sum_Inform += Inform[number];
     std_error[number] = sqrt(1.0/Sum_Inform);
 
-    int flag=0,skipable;
+    int flag=0,skipable=0;
     while(!flag){
     int random = rand()%90;
     if(random%9==0&&visit[dif][random]==0)
@@ -65,6 +65,7 @@ int generate_monte(int lower,int upper,int number)
         question:
 
         flag=1;
+
         cout << Monte[dif][random] << endl;
         visit[dif][random]=1;
 
@@ -81,7 +82,7 @@ int generate_monte(int lower,int upper,int number)
                 t++;
                 c[t]=ran;
                 //cout << "ran1 : " << ran << "\n";
-                cout << t << "." << Monte[dif][ran] << "\n";
+                cout <<"\n\t\t\t\t\t"<< t << "." << Monte[dif][ran] << "\n";
                 visit[dif][ran]=1;
             }
             else if(ran%2==0 && random%2==1 && visit[dif][ran]==0)
@@ -89,7 +90,7 @@ int generate_monte(int lower,int upper,int number)
                 t++;
                 c[t]=ran;
                 //cout << "ran2 : " << ran << "\n";
-                cout << t << "." << Monte[dif][ran] << "\n";
+                cout <<"\n\t\t\t\t\t"<< t << "." << Monte[dif][ran] << "\n";
                 visit[dif][ran]=1;
             }
             if(t==4)
@@ -97,25 +98,25 @@ int generate_monte(int lower,int upper,int number)
                 break;
             }
         }
-
-        cout << "Difficulty : " << Difficulty[dif]/10.0 << "\n";
-        cout << "Probability : " << Probability[number]*100 << "%\n";
-        cout << "Q : " << Q[number]*100 << "%\n";
-        cout << "Standard Error : " << std_error[number] << "\n";
+        cout << "\n\n";
+        cout << "\n\t\t\t\t\tDifficulty : " << Difficulty[dif]/10.0 << "\n";
+        cout << "\n\t\t\t\t\tProbability : " << Probability[number]*100 << "%\n";
+        cout << "\n\t\t\t\t\tQ : " << Q[number]*100 << "%\n";
+        cout << "\n\t\t\t\t\tStandard Error : " << std_error[number] << "\n";
 
         cin>>response;
         if(response=="1")
         {
             if(Monte[dif][c[1]+1]=="1")
             {
-                cout << "\n***Good!!! Your answer is Correct***\n\n";
+                cout << "\n\t\t\t\t\t***Good!!! Your answer is Correct***\n\n";
                 return 1;
 //
 
             }
             else
             {
-                cout << "\n***Your answer is incorrect***\n\n";
+                cout << "\n\t\t\t\t\t***Your answer is incorrect***\n\n";
                 return 0;
 
             }
@@ -125,14 +126,14 @@ int generate_monte(int lower,int upper,int number)
         {
             if(Monte[dif][c[2]+1]=="1")
             {
-                cout << "\n***Good!!! Your answer is Correct***\n\n";
+                cout << "\n\t\t\t\t\t***Good!!! Your answer is Correct***\n\n";
                 return 1;
 //
 
             }
             else
             {
-                cout << "\n***Your answer is incorrect***\n\n";
+                cout << "\n\t\t\t\t\t***Your answer is incorrect***\n\n";
                 return 0;
 
             }
@@ -142,14 +143,14 @@ int generate_monte(int lower,int upper,int number)
         {
             if(Monte[dif][c[3]+1]=="1")
             {
-                cout << "\n***Good!!! Your answer is Correct***\n\n";
+                cout << "\n\t\t\t\t\t***Good!!! Your answer is Correct***\n\n";
                 return 1;
 //
 
             }
             else
             {
-                cout << "\n***Your answer is incorrect***\n\n";
+                cout << "\n\t\t\t\t\t***Your answer is incorrect***\n\n";
                 return 0;
 
             }
@@ -159,13 +160,13 @@ int generate_monte(int lower,int upper,int number)
         {
             if(Monte[dif][c[4]+1]=="1")
             {
-                cout << "\n***Good!!! Your answer is Correct***\n\n";
+                cout << "\n\t\t\t\t\t***Good!!! Your answer is Correct***\n\n";
                 return 1;
 
             }
             else
             {
-                cout << "\n***Your answer is incorrect***\n\n";
+                cout << "\n\t\t\t\t\t***Your answer is incorrect***\n\n";
                 return 0;
             }
 
@@ -174,7 +175,7 @@ int generate_monte(int lower,int upper,int number)
         {
             if(skipable>2)
             {
-                cout << "You can not skip question more than 3 times!\nGive your answer__";
+                cout << "\n\t\t\t\t\tYou can not skip question more than 3 times!\nGive your answer__\n";
 
                 for(int i=random+1; i<=random+8; i++)
                 {
@@ -182,8 +183,8 @@ int generate_monte(int lower,int upper,int number)
                 }
                 goto question;
             }
-            cout << "Are you sure to skip this question??\n";
-            cout << "1.Yes\n2.No\n";
+            cout << "\n\t\t\t\t\tAre you sure to skip this question??\n";
+            cout << "\n\t\t\t\t\t1.Yes\n\t\t\t\t\t2.No\n";
             int choice;
             cin>>choice;
             if(choice==1)
@@ -218,7 +219,7 @@ void monte(string std_name,string std_id)
 
     Estimate_ability[0]=true_ability;
 
-    double initial_difficulty=-30.0;
+    double initial_difficulty=-50.0;
     for(int i=0;i<100;i++)
     {
         Difficulty[i]=initial_difficulty++;
@@ -231,7 +232,7 @@ void monte(string std_name,string std_id)
         question++;
         int lower=(Estimate_ability[question-1]*10)-5,upper=(Estimate_ability[question-1]*10)+5;
 
-        cout << "\nQuestion number "<< question << ": " << "\n";
+        cout << "\n\t\t\t\t\tQuestion number "<< question << ": " << "\n";
 
         if(generate_monte(lower , upper ,question))
         {
@@ -239,7 +240,7 @@ void monte(string std_name,string std_id)
             sumOf_response += 1.7*(1-Probability[question]);
             Estimate_ability[question] = Estimate_ability[question-1] + (sumOf_response/(1.7*1.7*Sum_Inform));
             //Estimate_ability[question] = Estimate_ability[question-1]*Probability[question];
-            cout << "Maximum Likelihood : " << Estimate_ability[question] << "\n";
+            cout << "\n\t\t\t\t\tMaximum Likelihood : " << Estimate_ability[question] << "\n";
         }
         else
         {
@@ -247,19 +248,22 @@ void monte(string std_name,string std_id)
             sumOf_response += 1.7*(0-Probability[question]);
             Estimate_ability[question] = Estimate_ability[question-1] + (sumOf_response/(1.7*1.7*Sum_Inform));
             //Estimate_ability[question] = Estimate_ability[question-1]*Q[question];
-            cout << "Maximum Likelihood : " << Estimate_ability[question] << "\n";
+            cout << "\n\t\t\t\t\tMaximum Likelihood : " << Estimate_ability[question] << "\n";
         }
-
+        if(Estimate_ability[question-1]<=-5.0)
+        {
+            cout << "\n\t\t\t\t\tYour ability is lower than the lowest difficulty of the question\n";
+        }
         if(Probability[question]+std_error[question]<1.0)
         {
             break;
         }
 
     }
-    cout << "Question number\tDifficulty\tProbability\tAnswer\tStudent's Ability\tStandard Error\n";
+    cout << "\n\t\t\t\t\tQuestion number\tDifficulty\tProbability\tAnswer\tStudent's Ability\tStandard Error\n";
     for(int i=1;i<=question;i++)
     {
-        cout << setprecision(1)<< "\t" <<i<<"\t  "<<b[i]<<"\t\t"<< Probability[i]<< "\t\t" <<answer[i]<< "\t\t" <<Estimate_ability[i-1]<<"\t\t"<<std_error[i]<<"\n";
+        cout << "\n\t\t\t\t" <<setprecision(1)<< "\t" <<i<<"\t  "<<b[i]<<"\t\t"<< Probability[i]<< "\t\t" <<answer[i]<< "\t\t" <<Estimate_ability[i-1]<<"\t\t"<<std_error[i]<<"\n";
     }
     create_monte_result_file(std_name,std_id,question);
 

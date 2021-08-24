@@ -11,4 +11,4 @@ double count_varience(double,double [],int);
 void generate_score(double [],int,double,double);
 void create_student_file(double [],string,string);
 void create_monte_result_file(string ,string ,int );
-void read_account_info();
+void read_account_info(int);

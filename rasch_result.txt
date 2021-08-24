@@ -1,3 +1,8 @@
-Student Name		Student Id		Ability		Standard Error
-Khairul			bsse1118		1.42217		0.529261
-Mohsin			bsse1101		0.208918	0.671967
+Student Name		Student Id		Ability			Standard Error
+Khairul			bsse1118		1.42217			0.529261
+Mohsin			bsse1101		0.208918		0.671967
+Inzamam			bsse1113		1.42217			0.529261
+Khairul			bsse1118		1.42217			0.529261
+Sikder			bsse1124		1.42217			0.529261
+Muktar			bsse1116		1.42217			0.529261
+Tahmeed			bsse1127		-0.254104		0.551465

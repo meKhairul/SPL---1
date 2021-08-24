@@ -39,7 +39,7 @@ void ReadRasch()
         }
     }*/
 }
-int generate_item(double D)
+int generate_item(double D,int number)
 {
     int x;
     string ans;
@@ -63,8 +63,11 @@ int generate_item(double D)
             //cout << "Difficulty level : " << x/10 << endl;
 
             //cout << "x: " << x << " random : " << random << "\n";
+            cout << "\n\t\t\t\t\t\t.....\n";
+            cout << "\n\t\t\t\t\t\t| " << number << " |\n";
+            cout << "\n\t\t\t\t\t\t.....\n";
 
-            cout << Rasch[x][random] << endl;
+            cout << Rasch[x][random] << "\n";
             check[x][random]=1;
             flag=1;
             int t=0,c[5];
@@ -80,7 +83,7 @@ int generate_item(double D)
                     t++;
                     c[t]=ran;
                     //cout << "ran1 : " << ran << "\n";
-                    cout << t << "." << Rasch[x][ran] << "\n";
+                    cout<< "\n\t\t\t\t\t" << t << "." << Rasch[x][ran] << "\n";
                     check[x][ran]=1;
                 }
                 else if(ran%2==0 && random%2==1 && check[x][ran]==0)
@@ -88,7 +91,7 @@ int generate_item(double D)
                     t++;
                     c[t]=ran;
                     //cout << "ran2 : " << ran << "\n";
-                    cout << t << "." << Rasch[x][ran] << "\n";
+                    cout << "\n\t\t\t\t\t" << t << "." << Rasch[x][ran] << "\n";
                     check[x][ran]=1;
                 }
                 if(t==4)
@@ -96,19 +99,20 @@ int generate_item(double D)
                     break;
                 }
             }
+            cout << "\n\n";
             cin>>ans;
             if(ans=="1")
             {
                 if(Rasch[x][c[1]+1]=="1")
                 {
-                    cout << "Good! Your Answer is Correct\n";
+                    cout << "\n\t\t\t\t\tGood! Your Answer is Correct\n";
                     return 1;
 //
 
                 }
                 else
                 {
-                    cout << "\nOops!Wrong answer\n";
+                    cout << "\n\t\t\t\t\tOops!Wrong answer\n";
                     return 0;
 
                 }
@@ -118,14 +122,14 @@ int generate_item(double D)
             {
                 if(Rasch[x][c[2]+1]=="1")
                 {
-                    cout << "Good! Your Answer is Correct\n";
+                    cout << "\n\t\t\t\t\tGood! Your Answer is Correct\n";
                     return 1;
 //
 
                 }
                 else
                 {
-                    cout << "\nOops!Wrong answer\n";
+                    cout << "\n\t\t\t\t\tOops!Wrong answer\n";
                     return 0;
 
                 }
@@ -135,14 +139,14 @@ int generate_item(double D)
             {
                 if(Rasch[x][c[3]+1]=="1")
                 {
-                    cout << "Good! Your Answer is Correct\n";
+                    cout << "\n\t\t\t\t\tGood! Your Answer is Correct\n";
                     return 1;
 //
 
                 }
                 else
                 {
-                    cout << "\nOops!Wrong answer\n";
+                    cout << "\n\t\t\t\t\tOops!Wrong answer\n";
                     return 0;
 
                 }
@@ -152,13 +156,13 @@ int generate_item(double D)
             {
                 if(Rasch[x][c[4]+1]=="1")
                 {
-                    cout << "Good! Your Answer is Correct\n";
+                    cout << "\n\t\t\t\t\tGood! Your Answer is Correct\n";
                     return 1;
 
                 }
                 else
                 {
-                    cout << "\nOops!Wrong answer\n";
+                    cout << "\n\t\t\t\t\tOops!Wrong answer\n";
                     return 0;
                 }
 
@@ -167,15 +171,15 @@ int generate_item(double D)
                 {
                     if(skip>2)
                     {
-                        cout << "You can not skip question more than 3 times!\nGive your answer__";
+                        cout << "\n\t\t\t\t\tYou can not skip question more than 3 times!\nGive your answer__";
                         for(int i=random+1;i<=random+8;i++)
                         {
                             check[x][i]=0;
                         }
                         goto question;
                     }
-                    cout << "Are you sure to skip this question??\n";
-                    cout << "1.Yes\n2.No\n";
+                    cout << "\n\t\t\t\t\tAre you sure to skip this question??\n";
+                    cout << "\n\t\t\t\t\t1.Yes\n\t\t\t\t\t2.No\n";
                     int choice;
                     cin>>choice;
                     if(choice==1)
@@ -236,21 +240,21 @@ Loop:
         L++;
         H=H+D;
 
-        int response=generate_item(D);
+        int response=generate_item(D,iter);
         if(!response)
         {
             D=D-(2.0/L);
-            cout << "D : " << D << "\n";
+            cout << "\n\t\t\t\t\t Difficulty, D : " << D << "\n";
         }
         else
         {
             R++;
             D=D+(2.0/L);
-            cout << "D : " << D << "\n";
+            cout << "\n\t\t\t\t\tDifficulty, D : " << D << "\n";
         }
         if(Stop_rule(L))
         {
-            cout << "stop\n";
+            //cout << "stop\n";
             double W = L-R;
             if(W==0)
             {
@@ -267,7 +271,7 @@ Loop:
                 B = H/L + log(R/W);
                 S = sqrt(L/(R*W));
             }
-            cout << "B : " << B << " S: " << S << "\n";
+            cout << "\n\t\t\t\t\tB : " << B << " S: " << S << "\n";
             if( B < (T+S) && B > (T-S) )
             {
                 goto Loop;
@@ -275,9 +279,9 @@ Loop:
             else if(B-S > T)
             {
                 //file << std_name << "\t\t" << std_id << "\t\t\n";
-                cout << "Student's name : " << std_name << "\n";
-                cout << "You are passed\n";
-                cout << "Your Ability :" << Calculate_Performance(B,arr) <<"%\n";
+                cout << "\n\t\t\t\t\tStudent's name : " << std_name << "\n";
+                cout << "\n\t\t\t\t\tYou are passed\n";
+                cout << "\n\t\t\t\t\tYour Ability :" << Calculate_Performance(B,arr) <<"%\n";
 
                 generate_score(difficult_level,iter,R,L);
                 break;
@@ -285,9 +289,9 @@ Loop:
             else if((B+S)<T)
             {
                 //file << std_name << "\t\t" << std_id << "\t\t\n";
-                cout << "Student's name : " << std_name << "\n";
-                cout << "You are failed\n";
-                cout << "Your Ability :" << Calculate_Performance(B,arr) <<"%\n";
+                cout << "\n\t\t\t\t\tStudent's name : " << std_name << "\n";
+                cout << "\n\t\t\t\t\tYou are failed\n";
+                cout << "\n\t\t\t\t\tYour Ability :" << Calculate_Performance(B,arr) <<"%\n";
 
                 generate_score(difficult_level,iter,R,L);
                 break;
@@ -296,9 +300,9 @@ Loop:
         if(iter==30)
         {
             //file << std_name << "\t\t" << std_id << "\t\t\n";
-            cout << "Student's name : " << std_name << "\n";
-            cout << "You are passed\n";
-            cout << "Your Ability :" << Calculate_Performance(B,arr) <<"%\n";
+            cout << "\n\t\t\t\t\tStudent's name : " << std_name << "\n";
+            cout << "\n\t\t\t\t\tYou are passed\n";
+            cout << "\n\t\t\t\t\tYour Ability :" << Calculate_Performance(B,arr) <<"%\n";
             generate_score(difficult_level,iter,R,L);
         }
     }
@@ -328,14 +332,14 @@ void generate_score(double difficulty_level[],int iter,double R,double L)
         R=R-0.5;
         W=W+0.5;
     }
-    cout << "R : " << R << " W: " << W << "\n";
+    cout << "\n\t\t\t\t\tR : " << R << " W: " << W << "\n";
     Est_ability = D_mean + (sqrt(1+(Varience/2.9)))*(log(R/W));
-    cout << "1st est ability: " <<Est_ability << "\n";
+    cout << "\n\t\t\t\t\t1st est ability: " <<Est_ability << "\n";
     while(1)
     {
         if(new_est_ability!=0.0)
         {
-            cout << "estimate ability : " << Est_ability << " and new estimate ability : " << new_est_ability << "\n";
+            cout << "\n\t\t\t\t\testimate ability : " << Est_ability << " and new estimate ability : " << new_est_ability << "\n";
             if(abs(Est_ability-new_est_ability )>0.5)
             {
                 Est_ability=new_est_ability;
@@ -355,11 +359,11 @@ void generate_score(double difficulty_level[],int iter,double R,double L)
                 std_err = sqrt(1/model_varience);
                 //file << Est_ability << "\t\t" << std_err << "\t\t\n";
                 //file.close();
-                cout << "And his Estimate ability is : "<< Est_ability << "\n";
-                cout << "Standard error : " << std_err << "\n";
+                cout << "\n\t\t\t\t\tAnd his Estimate ability is : "<< Est_ability << "\n";
+                cout << "\n\t\t\t\t\tStandard error : " << std_err << "\n";
                 for(int i=1;i<=iter;i++)
                 {
-                    cout << "Probability of giving correct answer of question number " << i << " is : " << Prob[i] << "\n";
+                    cout << "\n\t\t\t\t\tProbability of giving correct answer of question number " << i << " is : " << Prob[i] << "\n";
                 }
 
                 break;
@@ -372,7 +376,7 @@ void generate_score(double difficulty_level[],int iter,double R,double L)
                 Prob[i] = 1.0/(1+exp(difficulty_level[i]-Est_ability));
                 raw_score += Prob[i];
                 model_varience += (Prob[i]*(1-Prob[i]));
-                cout << "Prob["<<i<<"] : " << Prob[i] << "\n";
+                cout << "\n\t\t\t\t\tProb["<<i<<"] : " << Prob[i] << "\n";
             }
             new_est_ability = Est_ability + ((R-raw_score)/model_varience);
         }
@@ -398,8 +402,8 @@ double count_varience(double mean,double arr[],int iter)
 void create_student_file(double difficult_level[],string std_name,string std_id)
 {
 
-    cout << "Student Name\t\tStudent Id\t\tAbility\t\tStandard Error\n";
-    cout << std_name << "\t\t\t" << std_id << "\t\t" << Est_ability << "\t\t" << std_err << "\n";
+    cout << "\n\t\t\t\t\tStudent Name\t\tStudent Id\t\tAbility\t\tStandard Error\n";
+    cout <<"\n\t\t\t\t\t"<< std_name << "\t\t\t" << std_id << "\t\t" << Est_ability << "\t\t" << std_err << "\n";
 
     std::ofstream file;
 

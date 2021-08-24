@@ -227,10 +227,11 @@ void menu()
                         cin>>stdName;
                         cout <<"\n\t\t\t\t\tEnter student id(e.g.BSSE1118): ";
                         cin>>stdId;
-                        cout << "\n\t\t\t\t\t1.Start By 4 Level Test\n\t\t\t\t\t2.Test By Rasch Algorithm\n\t\t\t\t\t3.Test By Monte Carlo Algo\n\t\t\t\t\t0.Menu\n";
+                        cout << "\n\t\t\t\t\t1.Exit\n\t\t\t\t\t2.Test By Rasch Algorithm\n\t\t\t\t\t3.Test By Monte Carlo Algo\n\t\t\t\t\t0.Menu\n";
                         cin>>t;
                         if(t==1)
                         {
+                            exit(0);
                             cout << "\n\t\t\t\t\tIf You Want To Skip Question Write \'SKIP\'.You can not skip more than 3 times. \n";
                             readFile();
 
