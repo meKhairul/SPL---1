@@ -18,7 +18,7 @@ class TeachersLogInManager
 
     public:
         string userNameAttempt;
-        string passwordAttempt;
+        string passwordAttempt="";
         vector <account>accounts_info;
         int who;
         TeachersLogInManager(int x)
@@ -37,9 +37,32 @@ class TeachersLogInManager
                 {
                     accounts_info = Students_account_info;
                 }
-                cout << "\n\t\t\t\t\tYou need to enter username and password\n\t\t\t\t\tUsername and Password: ";
+                cout << "\n\t\t\t\t\tYou need to enter username and password.\n\n\t\t\t\t\tUsername: \n\t\t\t\t\t";
                 cin >> userNameAttempt;
-                cin>>passwordAttempt;
+                cout << "\n\t\t\t\t\tPassword : \n\t\t\t\t\t";
+
+                char c;
+                cout << "\n\t\t\t\t\t";
+                for(int i=0;i<1000;i++)
+                {
+                    c=_getch();
+                    if(c=='\n')
+                    {
+                        break;
+                    }
+                    if(c=='\r')
+                    {
+                        break;
+                    }
+                    if(c=='\t')
+                    {
+                        break;
+                    }
+                    cout<<"*";
+                    passwordAttempt+=c;
+                }
+                cout << "\n\t\t\t\t\t";
+                //cin>>passwordAttempt;
                 int fl=0;
                 for(int i=0;i<accounts_info.size();i++)
                 {
@@ -74,7 +97,7 @@ class TeachersLogInManager
             string your_firstname;
             string your_lastname;
             string your_email;
-            string your_password;
+            string your_password="";
             while(1)
             {
                 bool is_valid = 1;
@@ -86,14 +109,14 @@ class TeachersLogInManager
                 {
                     accounts_info = Students_account_info;
                 }
-                cout << "\n\t\t\t\t\tEnter your username : \n";
+                cout << "\n\t\t\t\t\tEnter your username : \n\t\t\t\t\t";
                 cin >> your_username;
                 for(int i=0;i<accounts_info.size();i++)
                 {
                     if(your_username==accounts_info[i].account_username)
                     {
                         is_valid = 0;
-                        cout << "\n\t\t\t\t\tThis username is already taken.Try another.\n";
+                        cout << "\n\t\t\t\t\tThis username is already taken.Try another.\n\t\t\t\t\t";
                         break;
                     }
                 }
@@ -102,14 +125,35 @@ class TeachersLogInManager
                     break;
                 }
             }
-            cout << "\n\t\t\t\t\tEnter your First name : \n";
+            cout << "\n\t\t\t\t\tEnter your First name : \n\t\t\t\t\t";
             cin >> your_firstname;
-            cout << "\n\t\t\t\t\tEnter your Last name : \n";
+            cout << "\n\t\t\t\t\tEnter your Last name : \n\t\t\t\t\t";
             cin >> your_lastname;
-            cout << "\n\t\t\t\t\tEnter your email address : \n";
+            cout << "\n\t\t\t\t\tEnter your email address : \n\t\t\t\t\t";
             cin >> your_email;
-            cout << "\n\t\t\t\t\tEnter your password : \n";
-            cin >> your_password;
+            cout << "\n\t\t\t\t\tEnter your password : \n\t\t\t\t\t";
+            char c;
+            cout << "\n\t\t\t\t\t";
+            for(int i=0;i<1000;i++)
+            {
+                c=_getch();
+                if(c=='\n')
+                {
+                    break;
+                }
+                if(c=='\r')
+                {
+                    break;
+                }
+                if(c=='\t')
+                {
+                    break;
+                }
+                cout<<"*";
+                your_password+=c;
+            }
+            cout << "\n\t\t\t\t\t";
+            //cin >> your_password;
             ac.account_username=your_username;
             ac.first_name=your_firstname;
             ac.last_name = your_lastname;
@@ -125,7 +169,7 @@ class TeachersLogInManager
             }
 
 
-            cout << "\n\t\t\t\t\tAccount created successfully.Now,Log in to your account\n";
+            cout << "\n\t\t\t\t\tAccount created successfully.Now,Log in to your account\n\t\t\t\t\t";
             std::ofstream file;
             if(who==1)
             {
@@ -153,7 +197,7 @@ void menu()
    while(1)
    {
 
-       cout<<"\t\t\t\t\t1.Teacher\n\t\t\t\t\t2.Student\n\t\t\t\t\t0.Exit\n";
+       cout<<"\n\t\t\t\t\t1.Teacher\n\t\t\t\t\t2.Student\n\t\t\t\t\t0.Exit\n\t\t\t\t\t";
        cin>>t;
        read_account_info(t);
        if(t==1)
@@ -161,7 +205,7 @@ void menu()
             int x;
             while(1)
             {
-                cout<<"\n\t\t\t\t\t1.Create Account\n\t\t\t\t\t2.LogIn\n\t\t\t\t\t0.Menu\n";
+                cout<<"\n\t\t\t\t\t1.Create Account\n\t\t\t\t\t2.LogIn\n\t\t\t\t\t0.Menu\n\t\t\t\t\t";
                 cin>>x;
                 if(x==1)
                 {
@@ -174,18 +218,18 @@ void menu()
                     bool is_success = app.login(1);
                     if(is_success)
                     {
-                        cout<<"\n\t\t\t\t\t1.Print Rasch Result\n\t\t\t\t\t2.Print Monte Carlo Result\n\t\t\t\t\t0.Menu\n";
+                        cout<<"\n\t\t\t\t\t1.Print Rasch Result\n\t\t\t\t\t2.Print Monte Carlo Result\n\t\t\t\t\t0.Menu\n\t\t\t\t\t";
                         int res;
                         cin>>res;
                         if(res==1)
                         {
-                            cout << "\n\t\t\t\t\tRasch Result of All Students : \n";
+                            cout << "\n\t\t\t\t\tRasch Result of All Students : \n\t\t\t\t\t";
                             system("rasch_result.txt");
                             break;
                         }
                         else if(res==2)
                         {
-                            cout << "\n\t\t\t\t\Monte Carlo Result of All Students : \n";
+                            cout << "\n\t\t\t\t\Monte Carlo Result of All Students : \n\t\t\t\t\t";
                             system("monte_result.txt");
                             break;
                         }
@@ -208,7 +252,7 @@ void menu()
            int x;
             while(1)
             {
-                cout<<"\n\t\t\t\t\t1.Create Account\n\t\t\t\t\t2.LogIn\n\t\t\t\t\t0.Menu\n";
+                cout<<"\n\t\t\t\t\t1.Create Account\n\t\t\t\t\t2.LogIn\n\t\t\t\t\t0.Menu\n\t\t\t\t\t";
                 cin>>x;
                 if(x==1)
                 {
@@ -223,22 +267,22 @@ void menu()
                     {
                         //Students Informations required.
                         string stdName,stdId;
-                        cout<<"\n\t\t\t\t\tEnter your name: ";
+                        cout<<"\n\t\t\t\t\tEnter your name: \n\t\t\t\t\t";
                         cin>>stdName;
-                        cout <<"\n\t\t\t\t\tEnter student id(e.g.BSSE1118): ";
+                        cout <<"\n\t\t\t\t\tEnter student id(e.g.BSSE1118): \n\t\t\t\t\t";
                         cin>>stdId;
-                        cout << "\n\t\t\t\t\t1.Exit\n\t\t\t\t\t2.Test By Rasch Algorithm\n\t\t\t\t\t3.Test By Monte Carlo Algo\n\t\t\t\t\t0.Menu\n";
+                        cout << "\n\t\t\t\t\t1.Exit\n\t\t\t\t\t2.Test By Rasch Algorithm\n\t\t\t\t\t3.Test By Monte Carlo Algo\n\t\t\t\t\t0.Menu\n\t\t\t\t\t";
                         cin>>t;
                         if(t==1)
                         {
                             exit(0);
-                            cout << "\n\t\t\t\t\tIf You Want To Skip Question Write \'SKIP\'.You can not skip more than 3 times. \n";
-                            readFile();
+                            //cout << "\n\t\t\t\t\tIf You Want To Skip Question Write \'SKIP\'.You can not skip more than 3 times. \n\t\t\t\t\t";
+                            //readFile();
 
                         }
                         else if(t==2)
                         {
-                            cout << "\n\t\t\t\t\tIf You Want To Skip Question Write \'SKIP\'.You can not skip more than 3 times. \n";
+                            cout << "\n\t\t\t\t\tIf You Want To Skip Question Write \'SKIP\'.You can not skip more than 3 times. \n\t\t\t\t\t";
                             rasch(stdName,stdId);
                         }
                         else if(t==0)
@@ -247,13 +291,13 @@ void menu()
                         }
                         else if(t==3)
                         {
-                            cout << "\n\t\t\t\t\tIf You Want To Skip Question Write \'SKIP\'.You can not skip more than 3 times.\n";
+                            cout << "\n\t\t\t\t\tIf You Want To Skip Question Write \'SKIP\'.You can not skip more than 3 times.\n\t\t\t\t\t";
                             monte(stdName,stdId);
                         }
                     }
                     else
                     {
-                        cout << "\n\t\t\t\t\tYou can not able to log in\n";
+                        cout << "\n\t\t\t\t\tYou can not able to log in\n\t\t\t\t\t";
                         break;
                     }
 
