@@ -102,7 +102,7 @@ int generate_monte(int lower,int upper,int number)
         cout << "\n\t\t\t\t\tDifficulty : " << Difficulty[dif]/10.0 << "\n";
         cout << "\n\t\t\t\t\tProbability : " << Probability[number]*100 << "%\n";
         cout << "\n\t\t\t\t\tQ : " << Q[number]*100 << "%\n";
-        cout << "\n\t\t\t\t\tStandard Error : " << std_error[number] << "\n";
+        cout << "\n\t\t\t\t\tStandard Error : " << std_error[number] << "\n\t\t\t\t\t";
 
         cin>>response;
         if(response=="1")
@@ -184,7 +184,7 @@ int generate_monte(int lower,int upper,int number)
                 goto question;
             }
             cout << "\n\t\t\t\t\tAre you sure to skip this question??\n";
-            cout << "\n\t\t\t\t\t1.Yes\n\t\t\t\t\t2.No\n";
+            cout << "\n\t\t\t\t\t1.Yes\n\t\t\t\t\t2.No\n\t\t\t\t\t";
             int choice;
             cin>>choice;
             if(choice==1)

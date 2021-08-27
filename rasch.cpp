@@ -62,7 +62,7 @@ int generate_item(double D,int number)
             question:
             //cout << "Difficulty level : " << x/10 << endl;
 
-            //cout << "x: " << x << " random : " << random << "\n";
+            //cout << "x: " << x << " random : " << random << "\n\t\t\t\t\t";
             cout << "\n\t\t\t\t\t\t.....\n";
             cout << "\n\t\t\t\t\t\t| " << number << " |\n";
             cout << "\n\t\t\t\t\t\t.....\n";
@@ -76,13 +76,13 @@ int generate_item(double D,int number)
                 int upper = random+8,lower = random+1;
                 int ran = (rand()%(upper-lower+1))+lower;
 
-                //cout << "ran : " << ran << " check[x][ran] : " << check[x][ran] << "\n";
+                //cout << "ran : " << ran << " check[x][ran] : " << check[x][ran] << "\n\t\t\t\t\t";
 
                 if(ran%2==1 && random%2==0 && check[x][ran]==0)
                 {
                     t++;
                     c[t]=ran;
-                    //cout << "ran1 : " << ran << "\n";
+                    //cout << "ran1 : " << ran << "\n\t\t\t\t\t";
                     cout<< "\n\t\t\t\t\t" << t << "." << Rasch[x][ran] << "\n";
                     check[x][ran]=1;
                 }
@@ -90,7 +90,7 @@ int generate_item(double D,int number)
                 {
                     t++;
                     c[t]=ran;
-                    //cout << "ran2 : " << ran << "\n";
+                    //cout << "ran2 : " << ran << "\n\t\t\t\t\t";
                     cout << "\n\t\t\t\t\t" << t << "." << Rasch[x][ran] << "\n";
                     check[x][ran]=1;
                 }
@@ -99,7 +99,7 @@ int generate_item(double D,int number)
                     break;
                 }
             }
-            cout << "\n\n";
+            cout << "\n\n\t\t\t\t\t";
             cin>>ans;
             if(ans=="1")
             {
@@ -179,7 +179,7 @@ int generate_item(double D,int number)
                         goto question;
                     }
                     cout << "\n\t\t\t\t\tAre you sure to skip this question??\n";
-                    cout << "\n\t\t\t\t\t1.Yes\n\t\t\t\t\t2.No\n";
+                    cout << "\n\t\t\t\t\t1.Yes\n\t\t\t\t\t2.No\n\t\t\t\t\t";
                     int choice;
                     cin>>choice;
                     if(choice==1)
@@ -346,7 +346,7 @@ void generate_score(double difficulty_level[],int iter,double R,double L)
                 for(int i=1;i<=iter;i++)
                 {
                     Prob[i] = 1.0/(1+exp(difficulty_level[i]-Est_ability));
-                    //cout << "probability["<<i<<"] :" << Prob[i]<<"\n";
+                    //cout << "probability["<<i<<"] :" << Prob[i]<<"\n\t\t\t\t\t";
                     raw_score += Prob[i];
                     model_varience += (Prob[i]*(1-Prob[i]));
                 }
