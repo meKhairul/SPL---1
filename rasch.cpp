@@ -1,8 +1,8 @@
 #include"header.h"
 
 string Rasch[140][10000];
-int arr[140],check[140][10000];
-double std_err,Est_ability,Prob[50];
+int arr[140],check[140][10000],ans[1000];
+double std_err,Est_ability,Prob[1000];
 void ReadRasch()
 {
 
@@ -241,6 +241,7 @@ Loop:
         H=H+D;
 
         int response=generate_item(D,iter);
+        ans[iter] = response;
         if(!response)
         {
             D=D-(2.0/L);
