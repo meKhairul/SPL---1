@@ -276,6 +276,27 @@ void monte(string std_name,string std_id)
     }
     create_monte_result_file(std_name,std_id,question);
 
+    double marks = negative_marking(question);
+    cout << "\n\t\t\t\t\tAnd your monte carlo marks : " << marks << "\n";
+
+}
+
+double negative_marking(int iter)
+{
+    double val=0.0;
+    for(int i=1;i<=iter;i++)
+    {
+        if(answer[i]==1)
+        {
+            val = val + (b[i]+5);
+        }
+        else
+        {
+            val = val - ((b[i]+5)*(0.25));
+        }
+
+    }
+    return val;
 }
 
 void create_monte_result_file(string std_name,string std_id,int numOfQuestion)

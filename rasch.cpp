@@ -309,9 +309,30 @@ Loop:
     }
 
     create_student_file(difficult_level,std_name,std_id);
+    double marks = marking(difficult_level,iter);
 
+    cout << "\n\t\t\t\t\tAnd your rasch marks : " << marks << "\n";
 
 }
+
+double marking(double arr[],int iter)
+{
+    double val=0.0;
+    for(int i=1;i<=iter;i++)
+    {
+        if(ans[i]==1)
+        {
+            val += (arr[i]+5);
+        }
+        else
+        {
+            val -= ((arr[i]+5)*(0.25));
+        }
+
+    }
+    return val;
+}
+
 
 void generate_score(double difficulty_level[],int iter,double R,double L)
 {
