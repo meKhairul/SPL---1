@@ -14,6 +14,6 @@ grade/performance of the user will be displayed.
 Feedback during Mid Presentation  :
 
 1. answers to be randomize
-
-2. question skiping
+2. Negative marking
+3. question skiping
 
